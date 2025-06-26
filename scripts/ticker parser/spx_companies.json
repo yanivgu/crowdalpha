@@ -1,0 +1,4527 @@
+[
+	{
+		"no": 1,
+		"symbol": "NVDA",
+		"name": "NVIDIA Corporation",
+		"marketCap": 3718074249000,
+		"price": 151.8201,
+		"change": 5.09,
+		"revenue": 113269000000
+	},
+	{
+		"no": 2,
+		"symbol": "AAPL",
+		"name": "Apple Inc.",
+		"marketCap": 3698463992525,
+		"price": 244.675,
+		"change": 0.54,
+		"revenue": 391035000000
+	},
+	{
+		"no": 3,
+		"symbol": "MSFT",
+		"name": "Microsoft Corporation",
+		"marketCap": 3184396610764.68,
+		"price": 428.305,
+		"change": 1.17,
+		"revenue": 254190000000
+	},
+	{
+		"no": 4,
+		"symbol": "GOOGL",
+		"name": "Alphabet Inc.",
+		"marketCap": 2416312195000,
+		"price": 197.395,
+		"change": 2.92,
+		"revenue": 339859000000
+	},
+	{
+		"no": 5,
+		"symbol": "AMZN",
+		"name": "Amazon.com, Inc.",
+		"marketCap": 2387485824421.44,
+		"price": 227.055,
+		"change": 1.28,
+		"revenue": 620128000000
+	},
+	{
+		"no": 6,
+		"symbol": "GOOG",
+		"name": "Alphabet Inc.",
+		"marketCap": 2355116950000,
+		"price": 198.61,
+		"change": 2.84,
+		"revenue": 339859000000
+	},
+	{
+		"no": 7,
+		"symbol": "META",
+		"name": "Meta Platforms, Inc.",
+		"marketCap": 1563895653757.0232,
+		"price": 619.4901,
+		"change": 2.46,
+		"revenue": 156227000000
+	},
+	{
+		"no": 8,
+		"symbol": "TSLA",
+		"name": "Tesla, Inc.",
+		"marketCap": 1312243177056.3032,
+		"price": 408.7909,
+		"change": -0.4,
+		"revenue": 97150000000
+	},
+	{
+		"no": 9,
+		"symbol": "AVGO",
+		"name": "Broadcom Inc.",
+		"marketCap": 1105794190761.96,
+		"price": 235.91,
+		"change": 1.44,
+		"revenue": 51574000000
+	},
+	{
+		"no": 10,
+		"symbol": "BRK.B",
+		"name": "Berkshire Hathaway Inc.",
+		"marketCap": 978678656217,
+		"price": 453.46,
+		"change": -0.02,
+		"revenue": 369893000000
+	},
+	{
+		"no": 11,
+		"symbol": "WMT",
+		"name": "Walmart Inc.",
+		"marketCap": 737946857709.9,
+		"price": 91.86,
+		"change": 1.19,
+		"revenue": 673819000000
+	},
+	{
+		"no": 12,
+		"symbol": "LLY",
+		"name": "Eli Lilly and Company",
+		"marketCap": 693770463939.7928,
+		"price": 770.4862,
+		"change": -1.47,
+		"revenue": 40863300000
+	},
+	{
+		"no": 13,
+		"symbol": "JPM",
+		"name": "JPMorgan Chase & Co.",
+		"marketCap": 683057893185.64,
+		"price": 242.62,
+		"change": 0.24,
+		"revenue": 162148000000
+	},
+	{
+		"no": 14,
+		"symbol": "V",
+		"name": "Visa Inc.",
+		"marketCap": 615244981283.49,
+		"price": 313.735,
+		"change": -0.37,
+		"revenue": 35926000000
+	},
+	{
+		"no": 15,
+		"symbol": "XOM",
+		"name": "Exxon Mobil Corporation",
+		"marketCap": 477307266609.6,
+		"price": 108.6,
+		"change": 0.69,
+		"revenue": 343818000000
+	},
+	{
+		"no": 16,
+		"symbol": "UNH",
+		"name": "UnitedHealth Group Incorporated",
+		"marketCap": 475501712534.46,
+		"price": 516.69,
+		"change": 0.72,
+		"revenue": 393898000000
+	},
+	{
+		"no": 17,
+		"symbol": "MA",
+		"name": "Mastercard Incorporated",
+		"marketCap": 472146048268.62,
+		"price": 514.415,
+		"change": -1.33,
+		"revenue": 27226000000
+	},
+	{
+		"no": 18,
+		"symbol": "ORCL",
+		"name": "Oracle Corporation",
+		"marketCap": 463875152600,
+		"price": 165.85,
+		"change": -0.28,
+		"revenue": 54933000000
+	},
+	{
+		"no": 19,
+		"symbol": "COST",
+		"name": "Costco Wholesale Corporation",
+		"marketCap": 409514463529.8,
+		"price": 922.54,
+		"change": 0.65,
+		"revenue": 258805000000
+	},
+	{
+		"no": 20,
+		"symbol": "HD",
+		"name": "The Home Depot, Inc.",
+		"marketCap": 388994838683.528,
+		"price": 391.594,
+		"change": 0.62,
+		"revenue": 154596000000
+	},
+	{
+		"no": 21,
+		"symbol": "PG",
+		"name": "The Procter & Gamble Company",
+		"marketCap": 380150835895.18,
+		"price": 161.42,
+		"change": -2.25,
+		"revenue": 83905000000
+	},
+	{
+		"no": 22,
+		"symbol": "NFLX",
+		"name": "Netflix, Inc.",
+		"marketCap": 374021575168.86,
+		"price": 874.99,
+		"change": -0.69,
+		"revenue": 37587278000
+	},
+	{
+		"no": 23,
+		"symbol": "BAC",
+		"name": "Bank of America Corporation",
+		"marketCap": 351226063644.225,
+		"price": 45.775,
+		"change": 2.15,
+		"revenue": 94626000000
+	},
+	{
+		"no": 24,
+		"symbol": "JNJ",
+		"name": "Johnson & Johnson",
+		"marketCap": 346517136245.10006,
+		"price": 143.925,
+		"change": -0.18,
+		"revenue": 87696000000
+	},
+	{
+		"no": 25,
+		"symbol": "ABBV",
+		"name": "AbbVie Inc.",
+		"marketCap": 319534313204.86,
+		"price": 180.82,
+		"change": -0.22,
+		"revenue": 55533000000
+	},
+	{
+		"no": 26,
+		"symbol": "CRM",
+		"name": "Salesforce, Inc.",
+		"marketCap": 315876990000,
+		"price": 330.07,
+		"change": -0.85,
+		"revenue": 37189000000
+	},
+	{
+		"no": 27,
+		"symbol": "CVX",
+		"name": "Chevron Corporation",
+		"marketCap": 266670381716.74998,
+		"price": 148.39,
+		"change": 0.37,
+		"revenue": 191689000000
+	},
+	{
+		"no": 28,
+		"symbol": "KO",
+		"name": "The Coca-Cola Company",
+		"marketCap": 263012554260.59,
+		"price": 61.055,
+		"change": -1.13,
+		"revenue": 46366000000
+	},
+	{
+		"no": 29,
+		"symbol": "MRK",
+		"name": "Merck & Co., Inc.",
+		"marketCap": 252887675430.65,
+		"price": 99.97,
+		"change": 0.84,
+		"revenue": 63174000000
+	},
+	{
+		"no": 30,
+		"symbol": "TMUS",
+		"name": "T-Mobile US, Inc.",
+		"marketCap": 244215363275.7456,
+		"price": 210.4422,
+		"change": -3.96,
+		"revenue": 80006000000
+	},
+	{
+		"no": 31,
+		"symbol": "WFC",
+		"name": "Wells Fargo & Company",
+		"marketCap": 242253740348.84004,
+		"price": 72.76,
+		"change": 2.03,
+		"revenue": 77875000000
+	},
+	{
+		"no": 32,
+		"symbol": "CSCO",
+		"name": "Cisco Systems, Inc.",
+		"marketCap": 235540323496.4,
+		"price": 59.14,
+		"change": 0.48,
+		"revenue": 52976000000
+	},
+	{
+		"no": 33,
+		"symbol": "NOW",
+		"name": "ServiceNow, Inc.",
+		"marketCap": 221888775574.99998,
+		"price": 1075.475,
+		"change": 0.16,
+		"revenue": 10464000000
+	},
+	{
+		"no": 34,
+		"symbol": "ACN",
+		"name": "Accenture plc",
+		"marketCap": 220512951789.35,
+		"price": 352.55,
+		"change": -0.37,
+		"revenue": 66361706000.00001
+	},
+	{
+		"no": 35,
+		"symbol": "BX",
+		"name": "Blackstone Inc.",
+		"marketCap": 215679276990.6075,
+		"price": 176.5575,
+		"change": 0.37,
+		"revenue": 11138276000
+	},
+	{
+		"no": 36,
+		"symbol": "AXP",
+		"name": "American Express Company",
+		"marketCap": 213052312531.6,
+		"price": 302.44,
+		"change": -0.21,
+		"revenue": 59239000000
+	},
+	{
+		"no": 37,
+		"symbol": "AMD",
+		"name": "Advanced Micro Devices, Inc.",
+		"marketCap": 211070437457.49,
+		"price": 130.065,
+		"change": 3.74,
+		"revenue": 24295000000
+	},
+	{
+		"no": 38,
+		"symbol": "MCD",
+		"name": "McDonald's Corporation",
+		"marketCap": 210313545447.28,
+		"price": 293.48,
+		"change": -0.44,
+		"revenue": 25938700000
+	},
+	{
+		"no": 39,
+		"symbol": "MS",
+		"name": "Morgan Stanley",
+		"marketCap": 209176859577.36003,
+		"price": 129.84,
+		"change": 3.1,
+		"revenue": 58282000000
+	},
+	{
+		"no": 40,
+		"symbol": "TMO",
+		"name": "Thermo Fisher Scientific Inc.",
+		"marketCap": 206534843089.40003,
+		"price": 539.96,
+		"change": 1.49,
+		"revenue": 42370000000
+	},
+	{
+		"no": 41,
+		"symbol": "IBM",
+		"name": "International Business Machines Corporation",
+		"marketCap": 205881489544.32,
+		"price": 222.66,
+		"revenue": 62580000000
+	},
+	{
+		"no": 42,
+		"symbol": "PEP",
+		"name": "PepsiCo, Inc.",
+		"marketCap": 204511387806.94999,
+		"price": 147.35,
+		"change": -1.54,
+		"revenue": 91920000000
+	},
+	{
+		"no": 43,
+		"symbol": "DIS",
+		"name": "The Walt Disney Company",
+		"marketCap": 203024405595.66,
+		"price": 112.11,
+		"change": 0.85,
+		"revenue": 91361000000
+	},
+	{
+		"no": 44,
+		"symbol": "ABT",
+		"name": "Abbott Laboratories",
+		"marketCap": 197554448760.7,
+		"price": 113.9,
+		"change": 0.06,
+		"revenue": 41217000000
+	},
+	{
+		"no": 45,
+		"symbol": "LIN",
+		"name": "Linde plc",
+		"marketCap": 197060328946.065,
+		"price": 413.855,
+		"change": 0.09,
+		"revenue": 33025000000
+	},
+	{
+		"no": 46,
+		"symbol": "GS",
+		"name": "The Goldman Sachs Group, Inc.",
+		"marketCap": 193936644461.07,
+		"price": 589.085,
+		"change": 1.54,
+		"revenue": 49387000000
+	},
+	{
+		"no": 47,
+		"symbol": "ISRG",
+		"name": "Intuitive Surgical, Inc.",
+		"marketCap": 192710888717.24998,
+		"price": 541.05,
+		"change": 1.08,
+		"revenue": 7866900000
+	},
+	{
+		"no": 48,
+		"symbol": "ADBE",
+		"name": "Adobe Inc.",
+		"marketCap": 189499497000,
+		"price": 430.485,
+		"change": -0.02,
+		"revenue": 21505000000
+	},
+	{
+		"no": 49,
+		"symbol": "PM",
+		"name": "Philip Morris International Inc.",
+		"marketCap": 188731432189.417,
+		"price": 121.3837,
+		"change": -0.52,
+		"revenue": 37219000000
+	},
+	{
+		"no": 50,
+		"symbol": "GE",
+		"name": "General Electric Company",
+		"marketCap": 186522548649.36003,
+		"price": 172.34,
+		"change": 0.22,
+		"revenue": 69953000000
+	},
+	{
+		"no": 51,
+		"symbol": "QCOM",
+		"name": "QUALCOMM Incorporated",
+		"marketCap": 181020785000,
+		"price": 162.935,
+		"change": 3.23,
+		"revenue": 38962000000
+	},
+	{
+		"no": 52,
+		"symbol": "CAT",
+		"name": "Caterpillar Inc.",
+		"marketCap": 176232564169.75999,
+		"price": 365.02,
+		"change": 0.34,
+		"revenue": 65664000000
+	},
+	{
+		"no": 53,
+		"symbol": "TXN",
+		"name": "Texas Instruments Incorporated",
+		"marketCap": 175647309025.7,
+		"price": 192.55,
+		"change": 1.07,
+		"revenue": 15711000000
+	},
+	{
+		"no": 54,
+		"symbol": "INTU",
+		"name": "Intuit Inc.",
+		"marketCap": 175643583208.24,
+		"price": 627.485,
+		"change": -0.44,
+		"revenue": 16590000000
+	},
+	{
+		"no": 55,
+		"symbol": "PLTR",
+		"name": "Palantir Technologies Inc.",
+		"marketCap": 173471299150,
+		"price": 76.15,
+		"change": -4.68,
+		"revenue": 2646338000
+	},
+	{
+		"no": 56,
+		"symbol": "DHR",
+		"name": "Danaher Corporation",
+		"marketCap": 172374573775.355,
+		"price": 238.655,
+		"change": 1.62,
+		"revenue": 23742000000
+	},
+	{
+		"no": 57,
+		"symbol": "VZ",
+		"name": "Verizon Communications Inc.",
+		"marketCap": 167458933020.59999,
+		"price": 39.78,
+		"change": -1.19,
+		"revenue": 134237000000
+	},
+	{
+		"no": 58,
+		"symbol": "T",
+		"name": "AT&T Inc.",
+		"marketCap": 162619318396.4166,
+		"price": 22.6638,
+		"change": -0.03,
+		"revenue": 122060000000
+	},
+	{
+		"no": 59,
+		"symbol": "BKNG",
+		"name": "Booking Holdings Inc.",
+		"marketCap": 161892406155.935,
+		"price": 4891.495,
+		"change": -0.25,
+		"revenue": 23052000000
+	},
+	{
+		"no": 60,
+		"symbol": "BLK",
+		"name": "BlackRock, Inc.",
+		"marketCap": 157974185416.05,
+		"price": 1019.985,
+		"change": -0.08,
+		"revenue": 19361000000
+	},
+	{
+		"no": 61,
+		"symbol": "SPGI",
+		"name": "S&P Global Inc.",
+		"marketCap": 153919684532.38,
+		"price": 496.57,
+		"change": -0.6,
+		"revenue": 13768000000
+	},
+	{
+		"no": 62,
+		"symbol": "PFE",
+		"name": "Pfizer Inc.",
+		"marketCap": 153207075596.225,
+		"price": 27.035,
+		"change": 1.67,
+		"revenue": 59375000000
+	},
+	{
+		"no": 63,
+		"symbol": "RTX",
+		"name": "RTX Corporation",
+		"marketCap": 152893853523.39,
+		"price": 114.87,
+		"change": -0.86,
+		"revenue": 79042000000
+	},
+	{
+		"no": 64,
+		"symbol": "ANET",
+		"name": "Arista Networks Inc",
+		"marketCap": 150182232607.38,
+		"price": 119.215,
+		"change": 3.49,
+		"revenue": 6613147000
+	},
+	{
+		"no": 65,
+		"symbol": "NEE",
+		"name": "NextEra Energy, Inc.",
+		"marketCap": 147407395876.734,
+		"price": 71.6821,
+		"change": -0.43,
+		"revenue": 26246000000
+	},
+	{
+		"no": 66,
+		"symbol": "HON",
+		"name": "Honeywell International Inc.",
+		"marketCap": 146253640709.6,
+		"price": 224.92,
+		"change": -0.71,
+		"revenue": 37850000000
+	},
+	{
+		"no": 67,
+		"symbol": "AMAT",
+		"name": "Applied Materials, Inc.",
+		"marketCap": 145617002816.48,
+		"price": 178.96,
+		"change": 5.23,
+		"revenue": 27176000000
+	},
+	{
+		"no": 68,
+		"symbol": "CMCSA",
+		"name": "Comcast Corporation",
+		"marketCap": 144413619713.22,
+		"price": 37.74,
+		"change": 0.19,
+		"revenue": 123070000000
+	},
+	{
+		"no": 69,
+		"symbol": "LOW",
+		"name": "Lowe's Companies, Inc.",
+		"marketCap": 141766676755.35,
+		"price": 251.07,
+		"change": 1.04,
+		"revenue": 83722000000
+	},
+	{
+		"no": 70,
+		"symbol": "PGR",
+		"name": "The Progressive Corporation",
+		"marketCap": 141130778245.245,
+		"price": 240.915,
+		"change": -0.54,
+		"revenue": 71959400000
+	},
+	{
+		"no": 71,
+		"symbol": "UNP",
+		"name": "Union Pacific Corporation",
+		"marketCap": 140072562385.215,
+		"price": 231.045,
+		"change": -0.2,
+		"revenue": 24288000000
+	},
+	{
+		"no": 72,
+		"symbol": "UBER",
+		"name": "Uber Technologies, Inc.",
+		"marketCap": 139987555926,
+		"price": 66.48,
+		"change": 2.93,
+		"revenue": 41955000000
+	},
+	{
+		"no": 73,
+		"symbol": "AMGN",
+		"name": "Amgen Inc.",
+		"marketCap": 139460177318.735,
+		"price": 259.445,
+		"change": -0.68,
+		"revenue": 32534000000
+	},
+	{
+		"no": 74,
+		"symbol": "C",
+		"name": "Citigroup Inc.",
+		"marketCap": 138686826256.95063,
+		"price": 73.3302,
+		"change": 3.28,
+		"revenue": 69308000000
+	},
+	{
+		"no": 75,
+		"symbol": "ETN",
+		"name": "Eaton Corporation plc",
+		"marketCap": 138389160000,
+		"price": 350.175,
+		"change": 2.22,
+		"revenue": 24605000000
+	},
+	{
+		"no": 76,
+		"symbol": "SYK",
+		"name": "Stryker Corporation",
+		"marketCap": 137393976746.93001,
+		"price": 360.41,
+		"change": -0.31,
+		"revenue": 21974000000
+	},
+	{
+		"no": 77,
+		"symbol": "SCHW",
+		"name": "The Charles Schwab Corporation",
+		"marketCap": 137364905956.32,
+		"price": 75.04,
+		"change": 0.79,
+		"revenue": 18736000000
+	},
+	{
+		"no": 78,
+		"symbol": "TJX",
+		"name": "The TJX Companies, Inc.",
+		"marketCap": 136017500718.85501,
+		"price": 120.995,
+		"change": 0.22,
+		"revenue": 56421000000
+	},
+	{
+		"no": 79,
+		"symbol": "KKR",
+		"name": "KKR & Co. Inc.",
+		"marketCap": 135907905366.09,
+		"price": 153.01,
+		"change": 0.64,
+		"revenue": 27816324000
+	},
+	{
+		"no": 80,
+		"symbol": "BSX",
+		"name": "Boston Scientific Corporation",
+		"marketCap": 134250945608.65001,
+		"price": 91.09,
+		"change": 0.44,
+		"revenue": 15911000000
+	},
+	{
+		"no": 81,
+		"symbol": "COP",
+		"name": "ConocoPhillips",
+		"marketCap": 130326382481.75,
+		"price": 100.75,
+		"change": -0.34,
+		"revenue": 56924000000
+	},
+	{
+		"no": 82,
+		"symbol": "BA",
+		"name": "The Boeing Company",
+		"marketCap": 128713203755.46,
+		"price": 172.036,
+		"change": 1.26,
+		"revenue": 73293000000
+	},
+	{
+		"no": 83,
+		"symbol": "FI",
+		"name": "Fiserv, Inc.",
+		"marketCap": 117919786203.45001,
+		"price": 207.27,
+		"change": -0.62,
+		"revenue": 20122000000
+	},
+	{
+		"no": 84,
+		"symbol": "PANW",
+		"name": "Palo Alto Networks, Inc.",
+		"marketCap": 117335122000,
+		"price": 178.81,
+		"change": -2.42,
+		"revenue": 8288200000.000001
+	},
+	{
+		"no": 85,
+		"symbol": "ADP",
+		"name": "Automatic Data Processing, Inc.",
+		"marketCap": 117241648693.74,
+		"price": 287.74,
+		"change": -1.35,
+		"revenue": 19522900000
+	},
+	{
+		"no": 86,
+		"symbol": "DE",
+		"name": "Deere & Company",
+		"marketCap": 114879060038.81999,
+		"price": 423.01,
+		"change": 0.19,
+		"revenue": 51532000000
+	},
+	{
+		"no": 87,
+		"symbol": "BMY",
+		"name": "Bristol-Myers Squibb Company",
+		"marketCap": 114409446180.34,
+		"price": 56.41,
+		"change": -0.28,
+		"revenue": 47435000000
+	},
+	{
+		"no": 88,
+		"symbol": "GILD",
+		"name": "Gilead Sciences, Inc.",
+		"marketCap": 112899223985.63,
+		"price": 90.59,
+		"change": -0.9,
+		"revenue": 28299000000
+	},
+	{
+		"no": 89,
+		"symbol": "MU",
+		"name": "Micron Technology, Inc.",
+		"marketCap": 112230538710.36,
+		"price": 100.73,
+		"change": 12.09,
+		"revenue": 29094000000
+	},
+	{
+		"no": 90,
+		"symbol": "LMT",
+		"name": "Lockheed Martin Corporation",
+		"marketCap": 111630576642.985,
+		"price": 470.945,
+		"change": -2.26,
+		"revenue": 71295000000
+	},
+	{
+		"no": 91,
+		"symbol": "ADI",
+		"name": "Analog Devices, Inc.",
+		"marketCap": 109068678119.31,
+		"price": 219.765,
+		"change": 2.04,
+		"revenue": 9427157000
+	},
+	{
+		"no": 92,
+		"symbol": "CB",
+		"name": "Chubb Limited",
+		"marketCap": 108913047809.43,
+		"price": 270.19,
+		"change": -0.57,
+		"revenue": 54697000000
+	},
+	{
+		"no": 93,
+		"symbol": "NKE",
+		"name": "NIKE, Inc.",
+		"marketCap": 107369820727.33,
+		"price": 72.59,
+		"change": -0.98,
+		"revenue": 48978000000
+	},
+	{
+		"no": 94,
+		"symbol": "UPS",
+		"name": "United Parcel Service, Inc.",
+		"marketCap": 106516137501.3114,
+		"price": 124.8183,
+		"change": 0.83,
+		"revenue": 90686000000
+	},
+	{
+		"no": 95,
+		"symbol": "SBUX",
+		"name": "Starbucks Corporation",
+		"marketCap": 106066990000,
+		"price": 93.55,
+		"change": 1.05,
+		"revenue": 36176200000
+	},
+	{
+		"no": 96,
+		"symbol": "MDT",
+		"name": "Medtronic plc",
+		"marketCap": 103788203020.14,
+		"price": 80.94,
+		"change": -0.01,
+		"revenue": 32996000000
+	},
+	{
+		"no": 97,
+		"symbol": "VRTX",
+		"name": "Vertex Pharmaceuticals Incorporated",
+		"marketCap": 103515185761.95,
+		"price": 401.955,
+		"change": -1.27,
+		"revenue": 10625800000
+	},
+	{
+		"no": 98,
+		"symbol": "MMC",
+		"name": "Marsh & McLennan Companies, Inc.",
+		"marketCap": 103223923385.58,
+		"price": 210.18,
+		"change": -0.52,
+		"revenue": 23945000000
+	},
+	{
+		"no": 99,
+		"symbol": "PLD",
+		"name": "Prologis, Inc.",
+		"marketCap": 102355112160,
+		"price": 108.66,
+		"change": 2.87,
+		"revenue": 8239209999.999999
+	},
+	{
+		"no": 100,
+		"symbol": "GEV",
+		"name": "GE Vernova Inc.",
+		"marketCap": 101958520543.6,
+		"price": 369.88,
+		"change": 4.48,
+		"revenue": 34422000000
+	},
+	{
+		"no": 101,
+		"symbol": "LRCX",
+		"name": "Lam Research Corporation",
+		"marketCap": 101532313350,
+		"price": 78.91,
+		"change": 5.06,
+		"revenue": 15591300000
+	},
+	{
+		"no": 102,
+		"symbol": "APO",
+		"name": "Apollo Global Management, Inc.",
+		"marketCap": 96604672615.16,
+		"price": 170.735,
+		"change": 0.99,
+		"revenue": 31671000000
+	},
+	{
+		"no": 103,
+		"symbol": "KLAC",
+		"name": "KLA Corporation",
+		"marketCap": 92331699557.84001,
+		"price": 690.28,
+		"change": 5.06,
+		"revenue": 10256832000
+	},
+	{
+		"no": 104,
+		"symbol": "EQIX",
+		"name": "Equinix, Inc.",
+		"marketCap": 91652035037.64209,
+		"price": 949.8783,
+		"change": -1.05,
+		"revenue": 8149491000
+	},
+	{
+		"no": 105,
+		"symbol": "PYPL",
+		"name": "PayPal Holdings, Inc.",
+		"marketCap": 89867580541.92,
+		"price": 89.64,
+		"change": 2.33,
+		"revenue": 31457000000
+	},
+	{
+		"no": 106,
+		"symbol": "CRWD",
+		"name": "CrowdStrike Holdings, Inc.",
+		"marketCap": 89718931821,
+		"price": 364.25,
+		"change": 1.46,
+		"revenue": 3740421000
+	},
+	{
+		"no": 107,
+		"symbol": "SO",
+		"name": "The Southern Company",
+		"marketCap": 88969555416,
+		"price": 81.2,
+		"change": -1.36,
+		"revenue": 26428000000
+	},
+	{
+		"no": 108,
+		"symbol": "MO",
+		"name": "Altria Group, Inc.",
+		"marketCap": 88952259360.27,
+		"price": 52.485,
+		"change": -1.23,
+		"revenue": 20362000000
+	},
+	{
+		"no": 109,
+		"symbol": "ELV",
+		"name": "Elevance Health, Inc.",
+		"marketCap": 88261172668.0005,
+		"price": 380.5627,
+		"change": 2.42,
+		"revenue": 174015000000
+	},
+	{
+		"no": 110,
+		"symbol": "INTC",
+		"name": "Intel Corporation",
+		"marketCap": 87553900000,
+		"price": 20.3,
+		"change": -1.26,
+		"revenue": 54247000000
+	},
+	{
+		"no": 111,
+		"symbol": "DELL",
+		"name": "Dell Technologies Inc.",
+		"marketCap": 87137118384.40001,
+		"price": 124.4,
+		"change": 3.74,
+		"revenue": 93954000000
+	},
+	{
+		"no": 112,
+		"symbol": "MCO",
+		"name": "Moody's Corporation",
+		"marketCap": 86501399268.3,
+		"price": 477.3,
+		"change": -0.39,
+		"revenue": 6896000000
+	},
+	{
+		"no": 113,
+		"symbol": "TT",
+		"name": "Trane Technologies plc",
+		"marketCap": 86426040181.72499,
+		"price": 384.075,
+		"change": 0.78,
+		"revenue": 19388300000
+	},
+	{
+		"no": 114,
+		"symbol": "APH",
+		"name": "Amphenol Corporation",
+		"marketCap": 86333940413.49,
+		"price": 71.61,
+		"change": 2.15,
+		"revenue": 14232400000
+	},
+	{
+		"no": 115,
+		"symbol": "CDNS",
+		"name": "Cadence Design Systems, Inc.",
+		"marketCap": 85276594590,
+		"price": 310.93,
+		"change": 2.33,
+		"revenue": 4353906000
+	},
+	{
+		"no": 116,
+		"symbol": "AMT",
+		"name": "American Tower Corporation",
+		"marketCap": 85018633254.06,
+		"price": 181.94,
+		"change": -0.34,
+		"revenue": 11167700000
+	},
+	{
+		"no": 117,
+		"symbol": "SHW",
+		"name": "The Sherwin-Williams Company",
+		"marketCap": 84773111704.75,
+		"price": 337.75,
+		"change": 0.36,
+		"revenue": 23053500000
+	},
+	{
+		"no": 118,
+		"symbol": "ABNB",
+		"name": "Airbnb, Inc.",
+		"marketCap": 84750272966,
+		"price": 135.65,
+		"change": -0.04,
+		"revenue": 10840000000
+	},
+	{
+		"no": 119,
+		"symbol": "ICE",
+		"name": "Intercontinental Exchange, Inc.",
+		"marketCap": 84122598575.47,
+		"price": 146.51,
+		"change": -2.22,
+		"revenue": 9157000000
+	},
+	{
+		"no": 120,
+		"symbol": "PH",
+		"name": "Parker-Hannifin Corporation",
+		"marketCap": 82604407071.255,
+		"price": 641.735,
+		"change": 0.64,
+		"revenue": 19986102000
+	},
+	{
+		"no": 121,
+		"symbol": "DUK",
+		"name": "Duke Energy Corporation",
+		"marketCap": 82597681154.625,
+		"price": 106.925,
+		"change": -0.79,
+		"revenue": 29751000000
+	},
+	{
+		"no": 122,
+		"symbol": "CME",
+		"name": "CME Group Inc.",
+		"marketCap": 82189608993.075,
+		"price": 228.075,
+		"change": -1.9,
+		"revenue": 6034400000
+	},
+	{
+		"no": 123,
+		"symbol": "CEG",
+		"name": "Constellation Energy Corporation",
+		"marketCap": 81994891593.84001,
+		"price": 262.16,
+		"change": 3.87,
+		"revenue": 23982000000
+	},
+	{
+		"no": 124,
+		"symbol": "WM",
+		"name": "Waste Management, Inc.",
+		"marketCap": 80630323531.48999,
+		"price": 200.89,
+		"change": -0.38,
+		"revenue": 21387000000
+	},
+	{
+		"no": 125,
+		"symbol": "CMG",
+		"name": "Chipotle Mexican Grill, Inc.",
+		"marketCap": 80291064320,
+		"price": 58.88,
+		"change": -1.37,
+		"revenue": 10984863000
+	},
+	{
+		"no": 126,
+		"symbol": "MDLZ",
+		"name": "Mondelez International, Inc.",
+		"marketCap": 78553476451.23,
+		"price": 58.745,
+		"change": -1.86,
+		"revenue": 36151000000
+	},
+	{
+		"no": 127,
+		"symbol": "CI",
+		"name": "The Cigna Group",
+		"marketCap": 78541951356.22,
+		"price": 282.37,
+		"change": 0.59,
+		"revenue": 229747000000
+	},
+	{
+		"no": 128,
+		"symbol": "PNC",
+		"name": "The PNC Financial Services Group, Inc.",
+		"marketCap": 78265531173,
+		"price": 197.25,
+		"change": 0.83,
+		"revenue": 20484000000
+	},
+	{
+		"no": 129,
+		"symbol": "WELL",
+		"name": "Welltower Inc.",
+		"marketCap": 78156875479.345,
+		"price": 125.515,
+		"change": -0.24,
+		"revenue": 7555548000
+	},
+	{
+		"no": 130,
+		"symbol": "SNPS",
+		"name": "Synopsys, Inc.",
+		"marketCap": 77786967105.78,
+		"price": 503.22,
+		"change": 1.93,
+		"revenue": 6127436000
+	},
+	{
+		"no": 131,
+		"symbol": "REGN",
+		"name": "Regeneron Pharmaceuticals, Inc.",
+		"marketCap": 77390935634.5146,
+		"price": 719.3166,
+		"change": 0.16,
+		"revenue": 13847100000
+	},
+	{
+		"no": 132,
+		"symbol": "USB",
+		"name": "U.S. Bancorp",
+		"marketCap": 77042166245.275,
+		"price": 49.385,
+		"change": 1.07,
+		"revenue": 24897000000
+	},
+	{
+		"no": 133,
+		"symbol": "MAR",
+		"name": "Marriott International, Inc.",
+		"marketCap": 76165031842.56,
+		"price": 274.08,
+		"change": -0.44,
+		"revenue": 6570000000
+	},
+	{
+		"no": 134,
+		"symbol": "AON",
+		"name": "Aon plc",
+		"marketCap": 76032735356.45999,
+		"price": 351.57,
+		"change": -0.68,
+		"revenue": 14926000000
+	},
+	{
+		"no": 135,
+		"symbol": "MSI",
+		"name": "Motorola Solutions, Inc.",
+		"marketCap": 75952969379.04001,
+		"price": 454.48,
+		"change": -1.59,
+		"revenue": 10655000000
+	},
+	{
+		"no": 136,
+		"symbol": "HCA",
+		"name": "HCA Healthcare, Inc.",
+		"marketCap": 75669975654,
+		"price": 298.74,
+		"change": 0.69,
+		"revenue": 69621000000
+	},
+	{
+		"no": 137,
+		"symbol": "ZTS",
+		"name": "Zoetis Inc.",
+		"marketCap": 75335533536.78,
+		"price": 166.98,
+		"change": 2.25,
+		"revenue": 9152000000
+	},
+	{
+		"no": 138,
+		"symbol": "FTNT",
+		"name": "Fortinet, Inc.",
+		"marketCap": 74878596331.11,
+		"price": 97.695,
+		"change": 0.23,
+		"revenue": 5710800000
+	},
+	{
+		"no": 139,
+		"symbol": "CTAS",
+		"name": "Cintas Corporation",
+		"marketCap": 74796053520,
+		"price": 185.37,
+		"change": -0.26,
+		"revenue": 9940478000
+	},
+	{
+		"no": 140,
+		"symbol": "ITW",
+		"name": "Illinois Tool Works Inc.",
+		"marketCap": 74055334000,
+		"price": 250.78,
+		"change": -0.6,
+		"revenue": 15949000000
+	},
+	{
+		"no": 141,
+		"symbol": "MCK",
+		"name": "McKesson Corporation",
+		"marketCap": 74029560468.94499,
+		"price": 583.185,
+		"change": 0.99,
+		"revenue": 330187000000
+	},
+	{
+		"no": 142,
+		"symbol": "GD",
+		"name": "General Dynamics Corporation",
+		"marketCap": 71876801570.08,
+		"price": 261.82,
+		"change": -0.59,
+		"revenue": 46046000000
+	},
+	{
+		"no": 143,
+		"symbol": "CL",
+		"name": "Colgate-Palmolive Company",
+		"marketCap": 71606925326.265,
+		"price": 87.645,
+		"change": -2.78,
+		"revenue": 20106000000
+	},
+	{
+		"no": 144,
+		"symbol": "EOG",
+		"name": "EOG Resources, Inc.",
+		"marketCap": 71352459139.46,
+		"price": 126.86,
+		"change": 0.23,
+		"revenue": 23864000000
+	},
+	{
+		"no": 145,
+		"symbol": "MMM",
+		"name": "3M Company",
+		"marketCap": 71032442520.52281,
+		"price": 130.4404,
+		"change": 0.44,
+		"revenue": 32638000000
+	},
+	{
+		"no": 146,
+		"symbol": "TDG",
+		"name": "TransDigm Group Incorporated",
+		"marketCap": 70769223943.536,
+		"price": 1258.557,
+		"change": -1.33,
+		"revenue": 7940000000
+	},
+	{
+		"no": 147,
+		"symbol": "COF",
+		"name": "Capital One Financial Corporation",
+		"marketCap": 70335245544.96,
+		"price": 184.36,
+		"change": 2.18,
+		"revenue": 26497000000
+	},
+	{
+		"no": 148,
+		"symbol": "ORLY",
+		"name": "O'Reilly Automotive, Inc.",
+		"marketCap": 70108615424.74399,
+		"price": 1214.408,
+		"change": 0.85,
+		"revenue": 16444893000
+	},
+	{
+		"no": 149,
+		"symbol": "EMR",
+		"name": "Emerson Electric Co.",
+		"marketCap": 70018185890.16,
+		"price": 122.94,
+		"change": -0.41,
+		"revenue": 17492000000
+	},
+	{
+		"no": 150,
+		"symbol": "AJG",
+		"name": "Arthur J. Gallagher & Co.",
+		"marketCap": 69492599203.5,
+		"price": 278.19,
+		"change": -0.79,
+		"revenue": 10667700000
+	},
+	{
+		"no": 151,
+		"symbol": "WMB",
+		"name": "The Williams Companies, Inc.",
+		"marketCap": 68173234803.149997,
+		"price": 55.925,
+		"change": -1.19,
+		"revenue": 10366000000
+	},
+	{
+		"no": 152,
+		"symbol": "WDAY",
+		"name": "Workday, Inc.",
+		"marketCap": 67335240000,
+		"price": 253.14,
+		"change": 0.12,
+		"revenue": 8157000000
+	},
+	{
+		"no": 153,
+		"symbol": "BDX",
+		"name": "Becton, Dickinson and Company",
+		"marketCap": 66949089194.988,
+		"price": 231.5599,
+		"change": 1.36,
+		"revenue": 20178000000
+	},
+	{
+		"no": 154,
+		"symbol": "FDX",
+		"name": "FedEx Corporation",
+		"marketCap": 66787872211.9,
+		"price": 277.3,
+		"change": 1.05,
+		"revenue": 87393000000
+	},
+	{
+		"no": 155,
+		"symbol": "NOC",
+		"name": "Northrop Grumman Corporation",
+		"marketCap": 66735751403.1,
+		"price": 458.05,
+		"change": -2.09,
+		"revenue": 40985000000
+	},
+	{
+		"no": 156,
+		"symbol": "SPG",
+		"name": "Simon Property Group, Inc.",
+		"marketCap": 65741613968.85,
+		"price": 175.09,
+		"change": -0.56,
+		"revenue": 5909004000
+	},
+	{
+		"no": 157,
+		"symbol": "ECL",
+		"name": "Ecolab Inc.",
+		"marketCap": 65614256235.24,
+		"price": 231.72,
+		"change": -0.09,
+		"revenue": 15674600000
+	},
+	{
+		"no": 158,
+		"symbol": "TGT",
+		"name": "Target Corporation",
+		"marketCap": 63744152502.83501,
+		"price": 139.115,
+		"change": 2.45,
+		"revenue": 107570000000
+	},
+	{
+		"no": 159,
+		"symbol": "RSG",
+		"name": "Republic Services, Inc.",
+		"marketCap": 63103280074.02,
+		"price": 201.51,
+		"change": 0.23,
+		"revenue": 15817600000
+	},
+	{
+		"no": 160,
+		"symbol": "ADSK",
+		"name": "Autodesk, Inc.",
+		"marketCap": 62956767027.41999,
+		"price": 293.03,
+		"change": -0.35,
+		"revenue": 5961000000
+	},
+	{
+		"no": 161,
+		"symbol": "APD",
+		"name": "Air Products and Chemicals, Inc.",
+		"marketCap": 62752176030,
+		"price": 282.18,
+		"change": -0.61,
+		"revenue": 12100600000
+	},
+	{
+		"no": 162,
+		"symbol": "CSX",
+		"name": "CSX Corporation",
+		"marketCap": 62307222833.43001,
+		"price": 32.31,
+		"change": -0.09,
+		"revenue": 14681000000
+	},
+	{
+		"no": 163,
+		"symbol": "CARR",
+		"name": "Carrier Global Corporation",
+		"marketCap": 62177856117.299999,
+		"price": 69.3,
+		"change": 0.06,
+		"revenue": 24801000000
+	},
+	{
+		"no": 164,
+		"symbol": "KMI",
+		"name": "Kinder Morgan, Inc.",
+		"marketCap": 61953323575.5135,
+		"price": 27.8863,
+		"change": -1.36,
+		"revenue": 15151000000
+	},
+	{
+		"no": 165,
+		"symbol": "RCL",
+		"name": "Royal Caribbean Cruises Ltd.",
+		"marketCap": 61860126466.799999,
+		"price": 230.07,
+		"change": 0.49,
+		"revenue": 16055000000
+	},
+	{
+		"no": 166,
+		"symbol": "DLR",
+		"name": "Digital Realty Trust, Inc.",
+		"marketCap": 61157265533.28,
+		"price": 180.88,
+		"change": -0.47,
+		"revenue": 5374854000
+	},
+	{
+		"no": 167,
+		"symbol": "HLT",
+		"name": "Hilton Worldwide Holdings Inc.",
+		"marketCap": 59596849172.82,
+		"price": 244.47,
+		"change": -0.83,
+		"revenue": 4695000000
+	},
+	{
+		"no": 168,
+		"symbol": "OKE",
+		"name": "ONEOK, Inc.",
+		"marketCap": 59424206639.28,
+		"price": 101.71,
+		"change": -1.16,
+		"revenue": 19933000000
+	},
+	{
+		"no": 169,
+		"symbol": "TFC",
+		"name": "Truist Financial Corporation",
+		"marketCap": 59267158258.48,
+		"price": 44.645,
+		"change": 1.24,
+		"revenue": 14497000000
+	},
+	{
+		"no": 170,
+		"symbol": "GM",
+		"name": "General Motors Company",
+		"marketCap": 59053794587.2,
+		"price": 53.705,
+		"change": 3.74,
+		"revenue": 182719000000
+	},
+	{
+		"no": 171,
+		"symbol": "CVS",
+		"name": "CVS Health Corporation",
+		"marketCap": 58434158995.575008,
+		"price": 46.435,
+		"change": 1.45,
+		"revenue": 367246000000
+	},
+	{
+		"no": 172,
+		"symbol": "MET",
+		"name": "MetLife, Inc.",
+		"marketCap": 57856573284.611,
+		"price": 83.557,
+		"change": 1.64,
+		"revenue": 71344000000
+	},
+	{
+		"no": 173,
+		"symbol": "AFL",
+		"name": "Aflac Incorporated",
+		"marketCap": 57180539961.810008,
+		"price": 102.93,
+		"change": -0.22,
+		"revenue": 17302000000
+	},
+	{
+		"no": 174,
+		"symbol": "BK",
+		"name": "The Bank of New York Mellon Corporation",
+		"marketCap": 57013555631.47199,
+		"price": 78.4146,
+		"change": 1.93,
+		"revenue": 17801000000
+	},
+	{
+		"no": 175,
+		"symbol": "PCAR",
+		"name": "PACCAR Inc",
+		"marketCap": 56543193246.130008,
+		"price": 107.845,
+		"change": 2.81,
+		"revenue": 34832900000
+	},
+	{
+		"no": 176,
+		"symbol": "FCX",
+		"name": "Freeport-McMoRan Inc.",
+		"marketCap": 56133580991.149997,
+		"price": 39.065,
+		"change": 3.59,
+		"revenue": 25640000000
+	},
+	{
+		"no": 177,
+		"symbol": "CHTR",
+		"name": "Charter Communications, Inc.",
+		"marketCap": 56083802875.49,
+		"price": 352.07,
+		"change": -1.75,
+		"revenue": 54870000000
+	},
+	{
+		"no": 178,
+		"symbol": "AZO",
+		"name": "AutoZone, Inc.",
+		"marketCap": 55686563312,
+		"price": 3318.2,
+		"change": 1.51,
+		"revenue": 18579632000
+	},
+	{
+		"no": 179,
+		"symbol": "TRV",
+		"name": "The Travelers Companies, Inc.",
+		"marketCap": 55553810435.73,
+		"price": 244.71,
+		"change": 1,
+		"revenue": 45342000000
+	},
+	{
+		"no": 180,
+		"symbol": "VST",
+		"name": "Vistra Corp.",
+		"marketCap": 55419448812.909999,
+		"price": 162.89,
+		"change": 0.33,
+		"revenue": 16265000000
+	},
+	{
+		"no": 181,
+		"symbol": "SLB",
+		"name": "Schlumberger Limited",
+		"marketCap": 55088139164.979999,
+		"price": 39.01,
+		"change": 1.09,
+		"revenue": 35995000000
+	},
+	{
+		"no": 182,
+		"symbol": "CPRT",
+		"name": "Copart, Inc.",
+		"marketCap": 54786224937.72,
+		"price": 56.86,
+		"change": -0.09,
+		"revenue": 4363236000
+	},
+	{
+		"no": 183,
+		"symbol": "NXPI",
+		"name": "NXP Semiconductors N.V.",
+		"marketCap": 54540516690.1,
+		"price": 214.595,
+		"change": 2.75,
+		"revenue": 12925000000
+	},
+	{
+		"no": 184,
+		"symbol": "ROP",
+		"name": "Roper Technologies, Inc.",
+		"marketCap": 54302986649.42,
+		"price": 506.42,
+		"change": -1.6,
+		"revenue": 6775600000
+	},
+	{
+		"no": 185,
+		"symbol": "SRE",
+		"name": "Sempra",
+		"marketCap": 54253813957.92,
+		"price": 85.655,
+		"change": -2.3,
+		"revenue": 12918000000
+	},
+	{
+		"no": 186,
+		"symbol": "NSC",
+		"name": "Norfolk Southern Corporation",
+		"marketCap": 54097749258.453998,
+		"price": 239.117,
+		"change": 1.37,
+		"revenue": 12172000000
+	},
+	{
+		"no": 187,
+		"symbol": "JCI",
+		"name": "Johnson Controls International plc",
+		"marketCap": 52961586932.340007,
+		"price": 79.98,
+		"change": 0.08,
+		"revenue": 22952000000
+	},
+	{
+		"no": 188,
+		"symbol": "PSA",
+		"name": "Public Storage",
+		"marketCap": 52387562623.44,
+		"price": 298.32,
+		"change": -0.71,
+		"revenue": 4698625000
+	},
+	{
+		"no": 189,
+		"symbol": "AMP",
+		"name": "Ameriprise Financial, Inc.",
+		"marketCap": 51988165628.08,
+		"price": 535.88,
+		"change": 0.01,
+		"revenue": 17445000000
+	},
+	{
+		"no": 190,
+		"symbol": "ROST",
+		"name": "Ross Stores, Inc.",
+		"marketCap": 51363377388.96,
+		"price": 155.68,
+		"change": 0.93,
+		"revenue": 21239441000
+	},
+	{
+		"no": 191,
+		"symbol": "GWW",
+		"name": "W.W. Grainger, Inc.",
+		"marketCap": 51246696627.85,
+		"price": 1052.29,
+		"change": -0.16,
+		"revenue": 16932000000
+	},
+	{
+		"no": 192,
+		"symbol": "MNST",
+		"name": "Monster Beverage Corporation",
+		"marketCap": 51130221071.925,
+		"price": 52.575,
+		"change": 0.35,
+		"revenue": 7410776000
+	},
+	{
+		"no": 193,
+		"symbol": "ALL",
+		"name": "The Allstate Corporation",
+		"marketCap": 50233216172.29999,
+		"price": 189.7,
+		"change": -0.91,
+		"revenue": 62432000000
+	},
+	{
+		"no": 194,
+		"symbol": "FANG",
+		"name": "Diamondback Energy, Inc.",
+		"marketCap": 49760798441.479999,
+		"price": 170.42,
+		"change": -0.32,
+		"revenue": 9157000000
+	},
+	{
+		"no": 195,
+		"symbol": "CMI",
+		"name": "Cummins Inc.",
+		"marketCap": 49386152629.26,
+		"price": 360.005,
+		"change": 1.6,
+		"revenue": 34198000000
+	},
+	{
+		"no": 196,
+		"symbol": "PAYX",
+		"name": "Paychex, Inc.",
+		"marketCap": 49076849030.3518,
+		"price": 136.3007,
+		"change": -2.41,
+		"revenue": 5369800000
+	},
+	{
+		"no": 197,
+		"symbol": "PWR",
+		"name": "Quanta Services, Inc.",
+		"marketCap": 48532478262.075008,
+		"price": 328.785,
+		"change": 0.69,
+		"revenue": 22903321000
+	},
+	{
+		"no": 198,
+		"symbol": "AEP",
+		"name": "American Electric Power Company, Inc.",
+		"marketCap": 48410188951.5,
+		"price": 90.9,
+		"change": -1.25,
+		"revenue": 19602200000
+	},
+	{
+		"no": 199,
+		"symbol": "PSX",
+		"name": "Phillips 66",
+		"marketCap": 47948049254.7,
+		"price": 116.1,
+		"change": 0.01,
+		"revenue": 147738000000
+	},
+	{
+		"no": 200,
+		"symbol": "LULU",
+		"name": "Lululemon Athletica Inc.",
+		"marketCap": 47853009395.875,
+		"price": 392.935,
+		"change": 3.9,
+		"revenue": 10181732000
+	},
+	{
+		"no": 201,
+		"symbol": "FICO",
+		"name": "Fair Isaac Corporation",
+		"marketCap": 47833159796.71,
+		"price": 1964.57,
+		"change": -0.09,
+		"revenue": 1717526000
+	},
+	{
+		"no": 202,
+		"symbol": "OXY",
+		"name": "Occidental Petroleum Corporation",
+		"marketCap": 47769355250.7444,
+		"price": 50.9082,
+		"change": 0.79,
+		"revenue": 27137000000
+	},
+	{
+		"no": 203,
+		"symbol": "MSCI",
+		"name": "MSCI Inc.",
+		"marketCap": 46998089442.39,
+		"price": 599.685,
+		"change": -0.3,
+		"revenue": 2802725000
+	},
+	{
+		"no": 204,
+		"symbol": "O",
+		"name": "Realty Income Corporation",
+		"marketCap": 46652192156.2638,
+		"price": 53.1411,
+		"change": -0.26,
+		"revenue": 5014703000
+	},
+	{
+		"no": 205,
+		"symbol": "HWM",
+		"name": "Howmet Aerospace Inc.",
+		"marketCap": 45909484640.244998,
+		"price": 113.005,
+		"change": 0.22,
+		"revenue": 7270000000
+	},
+	{
+		"no": 206,
+		"symbol": "AIG",
+		"name": "American International Group, Inc.",
+		"marketCap": 45896950612.5,
+		"price": 73.58,
+		"change": 1.06,
+		"revenue": 45299000000
+	},
+	{
+		"no": 207,
+		"symbol": "URI",
+		"name": "United Rentals, Inc.",
+		"marketCap": 45613459419.11,
+		"price": 695.09,
+		"change": -0.03,
+		"revenue": 14978000000
+	},
+	{
+		"no": 208,
+		"symbol": "MPC",
+		"name": "Marathon Petroleum Corporation",
+		"marketCap": 45331911679.600009,
+		"price": 141.05,
+		"change": -1.18,
+		"revenue": 142670000000
+	},
+	{
+		"no": 209,
+		"symbol": "DFS",
+		"name": "Discover Financial Services",
+		"marketCap": 45323848637.2,
+		"price": 180.41,
+		"change": 2.47,
+		"revenue": 11713000000
+	},
+	{
+		"no": 210,
+		"symbol": "D",
+		"name": "Dominion Energy, Inc.",
+		"marketCap": 45310119226.439998,
+		"price": 53.94,
+		"change": -1.44,
+		"revenue": 14593000000
+	},
+	{
+		"no": 211,
+		"symbol": "DHI",
+		"name": "D.R. Horton, Inc.",
+		"marketCap": 45169282136.64,
+		"price": 140.64,
+		"change": 0.54,
+		"revenue": 36801400000
+	},
+	{
+		"no": 212,
+		"symbol": "NDAQ",
+		"name": "Nasdaq, Inc.",
+		"marketCap": 44365539452.76,
+		"price": 77.19,
+		"change": -1.32,
+		"revenue": 7017000000
+	},
+	{
+		"no": 213,
+		"symbol": "COR",
+		"name": "Cencora, Inc.",
+		"marketCap": 44260185659.3,
+		"price": 228.995,
+		"change": -0.09,
+		"revenue": 293958599000
+	},
+	{
+		"no": 214,
+		"symbol": "KR",
+		"name": "The Kroger Co.",
+		"marketCap": 43915656029.7,
+		"price": 60.69,
+		"change": -1.25,
+		"revenue": 149879000000
+	},
+	{
+		"no": 215,
+		"symbol": "EW",
+		"name": "Edwards Lifesciences Corporation",
+		"marketCap": 43509546000,
+		"price": 73.77,
+		"change": -0.19,
+		"revenue": 6314900000
+	},
+	{
+		"no": 216,
+		"symbol": "TEL",
+		"name": "TE Connectivity plc",
+		"marketCap": 43279785925.78,
+		"price": 144.67,
+		"change": 1.59,
+		"revenue": 15845000000
+	},
+	{
+		"no": 217,
+		"symbol": "NEM",
+		"name": "Newmont Corporation",
+		"marketCap": 43038834866.001,
+		"price": 37.971,
+		"change": -0.36,
+		"revenue": 16987000000
+	},
+	{
+		"no": 218,
+		"symbol": "FIS",
+		"name": "Fidelity National Information Services, Inc.",
+		"marketCap": 43019896428.14,
+		"price": 79.91,
+		"change": -0.44,
+		"revenue": 10031000000
+	},
+	{
+		"no": 219,
+		"symbol": "PCG",
+		"name": "PG&E Corporation",
+		"marketCap": 42989671389.93751,
+		"price": 20.1125,
+		"change": -1.41,
+		"revenue": 24829000000
+	},
+	{
+		"no": 220,
+		"symbol": "AXON",
+		"name": "Axon Enterprise, Inc.",
+		"marketCap": 42965250255.6784,
+		"price": 563.4434,
+		"change": -6.26,
+		"revenue": 1940449000
+	},
+	{
+		"no": 221,
+		"symbol": "PRU",
+		"name": "Prudential Financial, Inc.",
+		"marketCap": 42930040000,
+		"price": 120.59,
+		"change": 1.22,
+		"revenue": 72966000000
+	},
+	{
+		"no": 222,
+		"symbol": "PEG",
+		"name": "Public Service Enterprise Group Incorporated",
+		"marketCap": 42677989562.86,
+		"price": 85.66,
+		"change": -0.68,
+		"revenue": 10430000000
+	},
+	{
+		"no": 223,
+		"symbol": "BKR",
+		"name": "Baker Hughes Company",
+		"marketCap": 42470447722.28,
+		"price": 42.92,
+		"change": 0.61,
+		"revenue": 27300000000
+	},
+	{
+		"no": 224,
+		"symbol": "KDP",
+		"name": "Keurig Dr Pepper Inc.",
+		"marketCap": 42341700653.534999,
+		"price": 31.215,
+		"change": -1.03,
+		"revenue": 15148000000
+	},
+	{
+		"no": 225,
+		"symbol": "KMB",
+		"name": "Kimberly-Clark Corporation",
+		"marketCap": 42269262408.75,
+		"price": 126.75,
+		"change": -2.32,
+		"revenue": 20100000000
+	},
+	{
+		"no": 226,
+		"symbol": "HES",
+		"name": "Hess Corporation",
+		"marketCap": 42007831596.39,
+		"price": 136.79,
+		"change": 0.29,
+		"revenue": 12463000000
+	},
+	{
+		"no": 227,
+		"symbol": "AME",
+		"name": "AMETEK, Inc.",
+		"marketCap": 41699269581.215999,
+		"price": 180.2762,
+		"change": 0.39,
+		"revenue": 6910463000
+	},
+	{
+		"no": 228,
+		"symbol": "GLW",
+		"name": "Corning Incorporated",
+		"marketCap": 41183641259.8,
+		"price": 48.1,
+		"change": 1.26,
+		"revenue": 12611000000
+	},
+	{
+		"no": 229,
+		"symbol": "FAST",
+		"name": "Fastenal Company",
+		"marketCap": 41144708070.899997,
+		"price": 71.82,
+		"change": 0.18,
+		"revenue": 7480100000
+	},
+	{
+		"no": 230,
+		"symbol": "STZ",
+		"name": "Constellation Brands, Inc.",
+		"marketCap": 40916487392.88,
+		"price": 225.39,
+		"change": 1.56,
+		"revenue": 10190800000
+	},
+	{
+		"no": 231,
+		"symbol": "KVUE",
+		"name": "Kenvue Inc.",
+		"marketCap": 40914273726.92,
+		"price": 21.34,
+		"change": 0.66,
+		"revenue": 15459000000
+	},
+	{
+		"no": 232,
+		"symbol": "TRGP",
+		"name": "Targa Resources Corp.",
+		"marketCap": 40423503331.125,
+		"price": 185.375,
+		"change": -0.43,
+		"revenue": 16215700000
+	},
+	{
+		"no": 233,
+		"symbol": "CBRE",
+		"name": "CBRE Group, Inc.",
+		"marketCap": 40106821995.675,
+		"price": 133.335,
+		"change": 1.4,
+		"revenue": 34313000000
+	},
+	{
+		"no": 234,
+		"symbol": "GRMN",
+		"name": "Garmin Ltd.",
+		"marketCap": 39981518795.49,
+		"price": 208.21,
+		"change": 0.51,
+		"revenue": 5956843000
+	},
+	{
+		"no": 235,
+		"symbol": "F",
+		"name": "Ford Motor Company",
+		"marketCap": 39762757372.965007,
+		"price": 10.005,
+		"change": 1.27,
+		"revenue": 182743000000
+	},
+	{
+		"no": 236,
+		"symbol": "CTVA",
+		"name": "Corteva, Inc.",
+		"marketCap": 39462645827.5,
+		"price": 57.4175,
+		"change": 2.64,
+		"revenue": 16637000000
+	},
+	{
+		"no": 237,
+		"symbol": "A",
+		"name": "Agilent Technologies, Inc.",
+		"marketCap": 39140836139.100009,
+		"price": 137.05,
+		"change": 1,
+		"revenue": 6510000000
+	},
+	{
+		"no": 238,
+		"symbol": "ODFL",
+		"name": "Old Dominion Freight Line, Inc.",
+		"marketCap": 39016674704,
+		"price": 182.75,
+		"change": 1.02,
+		"revenue": 5924531000
+	},
+	{
+		"no": 239,
+		"symbol": "LHX",
+		"name": "L3Harris Technologies, Inc.",
+		"marketCap": 39000121110.2628,
+		"price": 205.6227,
+		"change": -1.97,
+		"revenue": 21142000000
+	},
+	{
+		"no": 240,
+		"symbol": "CCI",
+		"name": "Crown Castle Inc.",
+		"marketCap": 38748776225.28,
+		"price": 89.16,
+		"change": -0.92,
+		"revenue": 6593000000
+	},
+	{
+		"no": 241,
+		"symbol": "DAL",
+		"name": "Delta Air Lines, Inc.",
+		"marketCap": 38742558420.36,
+		"price": 60.43,
+		"change": 2.42,
+		"revenue": 60307000000
+	},
+	{
+		"no": 242,
+		"symbol": "VLO",
+		"name": "Valero Energy Corporation",
+		"marketCap": 38737368498.08,
+		"price": 122.36,
+		"change": -1.53,
+		"revenue": 128731000000
+	},
+	{
+		"no": 243,
+		"symbol": "VRSK",
+		"name": "Verisk Analytics, Inc.",
+		"marketCap": 38573096783.44,
+		"price": 273.16,
+		"change": -1.13,
+		"revenue": 2823300000
+	},
+	{
+		"no": 244,
+		"symbol": "EA",
+		"name": "Electronic Arts Inc.",
+		"marketCap": 38175120460.65501,
+		"price": 145.555,
+		"change": -0.5,
+		"revenue": 7409000000
+	},
+	{
+		"no": 245,
+		"symbol": "EXC",
+		"name": "Exelon Corporation",
+		"marketCap": 38163582216.899997,
+		"price": 37.98,
+		"change": -0.18,
+		"revenue": 22924000000
+	},
+	{
+		"no": 246,
+		"symbol": "CTSH",
+		"name": "Cognizant Technology Solutions Corporation",
+		"marketCap": 37975180073.4,
+		"price": 76.59,
+		"change": 0.27,
+		"revenue": 19412000000
+	},
+	{
+		"no": 247,
+		"symbol": "XEL",
+		"name": "Xcel Energy Inc.",
+		"marketCap": 37799462864.625,
+		"price": 65.825,
+		"change": -0.48,
+		"revenue": 13763000000
+	},
+	{
+		"no": 248,
+		"symbol": "IT",
+		"name": "Gartner, Inc.",
+		"marketCap": 37587920315.4,
+		"price": 487.305,
+		"change": 0.27,
+		"revenue": 6138410000
+	},
+	{
+		"no": 249,
+		"symbol": "LEN",
+		"name": "Lennar Corporation",
+		"marketCap": 37210724335.695,
+		"price": 137.185,
+		"change": 0.96,
+		"revenue": 35441452000
+	},
+	{
+		"no": 250,
+		"symbol": "GEHC",
+		"name": "GE HealthCare Technologies Inc.",
+		"marketCap": 37162048111.86,
+		"price": 81.34,
+		"change": 1.02,
+		"revenue": 19559000000
+	},
+	{
+		"no": 251,
+		"symbol": "LVS",
+		"name": "Las Vegas Sands Corp.",
+		"marketCap": 37110601291.8368,
+		"price": 51.1864,
+		"change": 1.52,
+		"revenue": 11317000000
+	},
+	{
+		"no": 252,
+		"symbol": "IR",
+		"name": "Ingersoll Rand Inc.",
+		"marketCap": 37109384001.92,
+		"price": 92.08,
+		"change": -0.44,
+		"revenue": 7157800000
+	},
+	{
+		"no": 253,
+		"symbol": "OTIS",
+		"name": "Otis Worldwide Corporation",
+		"marketCap": 36952095772.619998,
+		"price": 92.505,
+		"change": -0.41,
+		"revenue": 14206000000
+	},
+	{
+		"no": 254,
+		"symbol": "SYY",
+		"name": "Sysco Corporation",
+		"marketCap": 36905816893,
+		"price": 75.13,
+		"change": -0.4,
+		"revenue": 79708000000
+	},
+	{
+		"no": 255,
+		"symbol": "KHC",
+		"name": "The Kraft Heinz Company",
+		"marketCap": 36656136911.61,
+		"price": 30.315,
+		"change": -0.96,
+		"revenue": 26130000000
+	},
+	{
+		"no": 256,
+		"symbol": "YUM",
+		"name": "Yum! Brands, Inc.",
+		"marketCap": 36603064370.64,
+		"price": 131.16,
+		"change": -1.71,
+		"revenue": 7223000000
+	},
+	{
+		"no": 257,
+		"symbol": "IQV",
+		"name": "IQVIA Holdings Inc.",
+		"marketCap": 36368062500,
+		"price": 200.375,
+		"change": 1.51,
+		"revenue": 15315000000
+	},
+	{
+		"no": 258,
+		"symbol": "IDXX",
+		"name": "IDEXX Laboratories, Inc.",
+		"marketCap": 35404881597,
+		"price": 432.375,
+		"change": 4.05,
+		"revenue": 3844817000
+	},
+	{
+		"no": 259,
+		"symbol": "RMD",
+		"name": "ResMed Inc.",
+		"marketCap": 34694803237.5,
+		"price": 236.25,
+		"change": 1.98,
+		"revenue": 4807485000
+	},
+	{
+		"no": 260,
+		"symbol": "GIS",
+		"name": "General Mills, Inc.",
+		"marketCap": 34302664000,
+		"price": 62.12,
+		"change": -2.76,
+		"revenue": 19901300000
+	},
+	{
+		"no": 261,
+		"symbol": "VMC",
+		"name": "Vulcan Materials Company",
+		"marketCap": 34267915791.615,
+		"price": 259.485,
+		"change": 0.92,
+		"revenue": 7398300000
+	},
+	{
+		"no": 262,
+		"symbol": "ACGL",
+		"name": "Arch Capital Group Ltd.",
+		"marketCap": 34222928634.42,
+		"price": 91.33,
+		"change": -0.08,
+		"revenue": 16867000000
+	},
+	{
+		"no": 263,
+		"symbol": "HSY",
+		"name": "The Hershey Company",
+		"marketCap": 33908606028.1152,
+		"price": 167.5701,
+		"change": -0.86,
+		"revenue": 10971834000
+	},
+	{
+		"no": 264,
+		"symbol": "WAB",
+		"name": "Westinghouse Air Brake Technologies Corporation",
+		"marketCap": 33794597285.12,
+		"price": 192.91,
+		"change": 1.29,
+		"revenue": 10330000000
+	},
+	{
+		"no": 265,
+		"symbol": "TTWO",
+		"name": "Take-Two Interactive Software, Inc.",
+		"marketCap": 33269096677.13,
+		"price": 189.43,
+		"change": 0.36,
+		"revenue": 5457000000
+	},
+	{
+		"no": 266,
+		"symbol": "UAL",
+		"name": "United Airlines Holdings, Inc.",
+		"marketCap": 33029006637.000005,
+		"price": 100.43,
+		"change": 4.98,
+		"revenue": 55994000000
+	},
+	{
+		"no": 267,
+		"symbol": "EXR",
+		"name": "Extra Space Storage Inc.",
+		"marketCap": 32943013043.140005,
+		"price": 149.33,
+		"change": -1.13,
+		"revenue": 3311251000
+	},
+	{
+		"no": 268,
+		"symbol": "RJF",
+		"name": "Raymond James Financial, Inc.",
+		"marketCap": 32875703976.32,
+		"price": 161.12,
+		"change": 2.16,
+		"revenue": 12797000000
+	},
+	{
+		"no": 269,
+		"symbol": "ETR",
+		"name": "Entergy Corporation",
+		"marketCap": 32431356197.64,
+		"price": 75.63,
+		"change": -1.37,
+		"revenue": 11862153000
+	},
+	{
+		"no": 270,
+		"symbol": "MTB",
+		"name": "M&T Bank Corporation",
+		"marketCap": 32293234981.54,
+		"price": 194.63,
+		"change": 1.61,
+		"revenue": 8499000000
+	},
+	{
+		"no": 271,
+		"symbol": "HUM",
+		"name": "Humana Inc.",
+		"marketCap": 32260607016.56,
+		"price": 267.92,
+		"change": 2.08,
+		"revenue": 115010000000
+	},
+	{
+		"no": 272,
+		"symbol": "CNC",
+		"name": "Centene Corporation",
+		"marketCap": 31957954500,
+		"price": 63.3,
+		"change": 2.96,
+		"revenue": 146204000000
+	},
+	{
+		"no": 273,
+		"symbol": "CCL",
+		"name": "Carnival Corporation & plc",
+		"marketCap": 31941360024.420003,
+		"price": 24.42,
+		"change": 0.16,
+		"revenue": 25021000000
+	},
+	{
+		"no": 274,
+		"symbol": "MCHP",
+		"name": "Microchip Technology Incorporated",
+		"marketCap": 31930628513.64,
+		"price": 59.46,
+		"change": 3.1,
+		"revenue": 5496600000
+	},
+	{
+		"no": 275,
+		"symbol": "MLM",
+		"name": "Martin Marietta Materials, Inc.",
+		"marketCap": 31899958670.58,
+		"price": 521.94,
+		"change": 1.02,
+		"revenue": 6513200000
+	},
+	{
+		"no": 276,
+		"symbol": "HPQ",
+		"name": "HP Inc.",
+		"marketCap": 31885123024,
+		"price": 34,
+		"change": 2.6,
+		"revenue": 53559000000
+	},
+	{
+		"no": 277,
+		"symbol": "HIG",
+		"name": "The Hartford Financial Services Group, Inc.",
+		"marketCap": 31870615990.3,
+		"price": 109.94,
+		"change": 0.4,
+		"revenue": 26084000000
+	},
+	{
+		"no": 278,
+		"symbol": "DECK",
+		"name": "Deckers Outdoor Corporation",
+		"marketCap": 31704599675.72,
+		"price": 208.69,
+		"change": 0.69,
+		"revenue": 4656732000
+	},
+	{
+		"no": 279,
+		"symbol": "DXCM",
+		"name": "DexCom, Inc.",
+		"marketCap": 31521047973,
+		"price": 80.7,
+		"change": -0.46,
+		"revenue": 3954000000
+	},
+	{
+		"no": 280,
+		"symbol": "DD",
+		"name": "DuPont de Nemours, Inc.",
+		"marketCap": 31342476270.89,
+		"price": 74.99,
+		"change": 0.32,
+		"revenue": 12192000000
+	},
+	{
+		"no": 281,
+		"symbol": "VICI",
+		"name": "VICI Properties Inc.",
+		"marketCap": 31219367304.175,
+		"price": 29.615,
+		"change": 0.53,
+		"revenue": 3805018000
+	},
+	{
+		"no": 282,
+		"symbol": "MPWR",
+		"name": "Monolithic Power Systems, Inc.",
+		"marketCap": 31197736799.999998,
+		"price": 639.56,
+		"change": 3.18,
+		"revenue": 2039447000
+	},
+	{
+		"no": 283,
+		"symbol": "EFX",
+		"name": "Equifax Inc.",
+		"marketCap": 31159057530.7,
+		"price": 251.38,
+		"change": -0.79,
+		"revenue": 5588200000
+	},
+	{
+		"no": 284,
+		"symbol": "WTW",
+		"name": "Willis Towers Watson Public Limited Company",
+		"marketCap": 31076829876.159997,
+		"price": 308.53,
+		"change": -0.17,
+		"revenue": 9809000000
+	},
+	{
+		"no": 285,
+		"symbol": "AVB",
+		"name": "AvalonBay Communities, Inc.",
+		"marketCap": 30719077030.005,
+		"price": 216.255,
+		"change": -1.33,
+		"revenue": 2926011000
+	},
+	{
+		"no": 286,
+		"symbol": "ED",
+		"name": "Consolidated Edison, Inc.",
+		"marketCap": 30710068055.36,
+		"price": 88.64,
+		"change": -0.67,
+		"revenue": 15031000000
+	},
+	{
+		"no": 287,
+		"symbol": "IRM",
+		"name": "Iron Mountain Incorporated",
+		"marketCap": 30631393524.98,
+		"price": 104.38,
+		"change": -1.25,
+		"revenue": 5988459000
+	},
+	{
+		"no": 288,
+		"symbol": "EIX",
+		"name": "Edison International",
+		"marketCap": 30611971769.829999,
+		"price": 79.07,
+		"change": -0.91,
+		"revenue": 17321000000
+	},
+	{
+		"no": 289,
+		"symbol": "EBAY",
+		"name": "eBay Inc.",
+		"marketCap": 30325490000,
+		"price": 63.31,
+		"change": 2.76,
+		"revenue": 10266000000
+	},
+	{
+		"no": 290,
+		"symbol": "HPE",
+		"name": "Hewlett Packard Enterprise Company",
+		"marketCap": 30022497226.149999,
+		"price": 22.825,
+		"change": 4.61,
+		"revenue": 30127000000
+	},
+	{
+		"no": 291,
+		"symbol": "LYV",
+		"name": "Live Nation Entertainment, Inc.",
+		"marketCap": 29999812030.65,
+		"price": 130.095,
+		"change": 0.47,
+		"revenue": 23315469000
+	},
+	{
+		"no": 292,
+		"symbol": "ANSS",
+		"name": "ANSYS, Inc.",
+		"marketCap": 29689259383,
+		"price": 339.5,
+		"change": 0.33,
+		"revenue": 2467743000
+	},
+	{
+		"no": 293,
+		"symbol": "CSGP",
+		"name": "CoStar Group, Inc.",
+		"marketCap": 29562180770.87,
+		"price": 72.11,
+		"change": -0.19,
+		"revenue": 2666900000
+	},
+	{
+		"no": 294,
+		"symbol": "WEC",
+		"name": "WEC Energy Group, Inc.",
+		"marketCap": 29398818666.780004,
+		"price": 92.93,
+		"change": -0.92,
+		"revenue": 8533200000.000001
+	},
+	{
+		"no": 295,
+		"symbol": "STT",
+		"name": "State Street Corporation",
+		"marketCap": 29266682064.364999,
+		"price": 99.835,
+		"change": 2.22,
+		"revenue": 12548000000
+	},
+	{
+		"no": 296,
+		"symbol": "GPN",
+		"name": "Global Payments Inc.",
+		"marketCap": 29118026546.525,
+		"price": 114.415,
+		"change": 1.63,
+		"revenue": 10024320000
+	},
+	{
+		"no": 297,
+		"symbol": "CAH",
+		"name": "Cardinal Health, Inc.",
+		"marketCap": 29037630202.454999,
+		"price": 119.985,
+		"change": 0.57,
+		"revenue": 224454000000
+	},
+	{
+		"no": 298,
+		"symbol": "FITB",
+		"name": "Fifth Third Bancorp",
+		"marketCap": 29027819976.48,
+		"price": 43.29,
+		"change": 2.12,
+		"revenue": 8063000000
+	},
+	{
+		"no": 299,
+		"symbol": "BRO",
+		"name": "Brown & Brown, Inc.",
+		"marketCap": 28856061134.899999,
+		"price": 100.91,
+		"change": -0.67,
+		"revenue": 4558700000
+	},
+	{
+		"no": 300,
+		"symbol": "KEYS",
+		"name": "Keysight Technologies, Inc.",
+		"marketCap": 28713775998.84,
+		"price": 165.81,
+		"change": 1.23,
+		"revenue": 4979000000
+	},
+	{
+		"no": 301,
+		"symbol": "TSCO",
+		"name": "Tractor Supply Company",
+		"marketCap": 28504645466.800004,
+		"price": 53.36,
+		"change": 2.75,
+		"revenue": 14769541000
+	},
+	{
+		"no": 302,
+		"symbol": "EQT",
+		"name": "EQT Corporation",
+		"marketCap": 28473760480,
+		"price": 47.72,
+		"change": 1.49,
+		"revenue": 4623048000
+	},
+	{
+		"no": 303,
+		"symbol": "NUE",
+		"name": "Nucor Corporation",
+		"marketCap": 28351311477.84,
+		"price": 120.74,
+		"change": 4.58,
+		"revenue": 31362946000
+	},
+	{
+		"no": 304,
+		"symbol": "XYL",
+		"name": "Xylem Inc.",
+		"marketCap": 28344358499.010004,
+		"price": 116.67,
+		"change": -0.44,
+		"revenue": 8424000000
+	},
+	{
+		"no": 305,
+		"symbol": "TPL",
+		"name": "Texas Pacific Land Corporation",
+		"marketCap": 28053059241.42,
+		"price": 1221.03,
+		"change": 0.83,
+		"revenue": 686696000
+	},
+	{
+		"no": 306,
+		"symbol": "DOW",
+		"name": "Dow Inc.",
+		"marketCap": 28015368597.2,
+		"price": 39.88,
+		"change": 1.22,
+		"revenue": 43180000000
+	},
+	{
+		"no": 307,
+		"symbol": "K",
+		"name": "Kellanova",
+		"marketCap": 27956377994.975999,
+		"price": 81.104,
+		"change": -0.13,
+		"revenue": 12799000000
+	},
+	{
+		"no": 308,
+		"symbol": "ON",
+		"name": "ON Semiconductor Corporation",
+		"marketCap": 27876958265.86,
+		"price": 65.47,
+		"change": 2.44,
+		"revenue": 7377900000
+	},
+	{
+		"no": 309,
+		"symbol": "GDDY",
+		"name": "GoDaddy Inc.",
+		"marketCap": 27850142983.125,
+		"price": 198.375,
+		"change": -1.01,
+		"revenue": 4480900000
+	},
+	{
+		"no": 310,
+		"symbol": "SW",
+		"name": "Smurfit Westrock Plc",
+		"marketCap": 27570110992.972799,
+		"price": 53.1824,
+		"change": 1.69,
+		"revenue": 16432000000
+	},
+	{
+		"no": 311,
+		"symbol": "EQR",
+		"name": "Equity Residential",
+		"marketCap": 27194189243.98,
+		"price": 69.565,
+		"change": -1.88,
+		"revenue": 2940829000
+	},
+	{
+		"no": 312,
+		"symbol": "PPG",
+		"name": "PPG Industries, Inc.",
+		"marketCap": 26760621718.875,
+		"price": 115.495,
+		"change": 1.07,
+		"revenue": 18030000000
+	},
+	{
+		"no": 313,
+		"symbol": "FTV",
+		"name": "Fortive Corporation",
+		"marketCap": 26572844895.66,
+		"price": 76.59,
+		"change": 0.91,
+		"revenue": 6195200000
+	},
+	{
+		"no": 314,
+		"symbol": "MTD",
+		"name": "Mettler-Toledo International Inc.",
+		"marketCap": 26509737093.102399,
+		"price": 1256.2268,
+		"change": 1.45,
+		"revenue": 3762226000
+	},
+	{
+		"no": 315,
+		"symbol": "SYF",
+		"name": "Synchrony Financial",
+		"marketCap": 26481258209.745,
+		"price": 68.015,
+		"change": 1.85,
+		"revenue": 9007000000
+	},
+	{
+		"no": 316,
+		"symbol": "EL",
+		"name": "The Estée Lauder Companies Inc.",
+		"marketCap": 26449500955.680006,
+		"price": 73.68,
+		"change": 2.11,
+		"revenue": 15451000000
+	},
+	{
+		"no": 317,
+		"symbol": "BR",
+		"name": "Broadridge Financial Solutions, Inc.",
+		"marketCap": 26373747199.32,
+		"price": 225.63,
+		"change": -1.57,
+		"revenue": 6498600000
+	},
+	{
+		"no": 318,
+		"symbol": "WBD",
+		"name": "Warner Bros. Discovery, Inc.",
+		"marketCap": 26371524792.75,
+		"price": 10.75,
+		"change": 1.7,
+		"revenue": 39578000000
+	},
+	{
+		"no": 319,
+		"symbol": "DOV",
+		"name": "Dover Corporation",
+		"marketCap": 25864801349.98,
+		"price": 188.53,
+		"change": 0.27,
+		"revenue": 8474513000.000001
+	},
+	{
+		"no": 320,
+		"symbol": "TROW",
+		"name": "T. Rowe Price Group, Inc.",
+		"marketCap": 25632759648.6,
+		"price": 115.38,
+		"change": 0.6,
+		"revenue": 6911100000
+	},
+	{
+		"no": 321,
+		"symbol": "DTE",
+		"name": "DTE Energy Company",
+		"marketCap": 25026034812.24,
+		"price": 120.84,
+		"change": -0.61,
+		"revenue": 12415000000
+	},
+	{
+		"no": 322,
+		"symbol": "VLTO",
+		"name": "Veralto Corporation",
+		"marketCap": 24958300653,
+		"price": 100.92,
+		"change": 0.12,
+		"revenue": 5136000000
+	},
+	{
+		"no": 323,
+		"symbol": "CHD",
+		"name": "Church & Dwight Co., Inc.",
+		"marketCap": 24954223927.425,
+		"price": 101.855,
+		"change": -2.66,
+		"revenue": 6053100000
+	},
+	{
+		"no": 324,
+		"symbol": "NVR",
+		"name": "NVR, Inc.",
+		"marketCap": 24908699104.8,
+		"price": 8129.8,
+		"change": 0.73,
+		"revenue": 10281399000
+	},
+	{
+		"no": 325,
+		"symbol": "TYL",
+		"name": "Tyler Technologies, Inc.",
+		"marketCap": 24613466233.5,
+		"price": 575.1,
+		"change": -1.55,
+		"revenue": 2077606000.0000003
+	},
+	{
+		"no": 326,
+		"symbol": "HAL",
+		"name": "Halliburton Company",
+		"marketCap": 24505812871.575,
+		"price": 27.895,
+		"change": 0.78,
+		"revenue": 23073000000
+	},
+	{
+		"no": 327,
+		"symbol": "VTR",
+		"name": "Ventas, Inc.",
+		"marketCap": 24459026629.239999,
+		"price": 57.83,
+		"change": -0.82,
+		"revenue": 4797115000
+	},
+	{
+		"no": 328,
+		"symbol": "HBAN",
+		"name": "Huntington Bancshares Incorporated",
+		"marketCap": 24356382986.88,
+		"price": 16.765,
+		"change": 1.91,
+		"revenue": 6690000000
+	},
+	{
+		"no": 329,
+		"symbol": "WST",
+		"name": "West Pharmaceutical Services, Inc.",
+		"marketCap": 24136920474.719999,
+		"price": 333.28,
+		"change": -0.68,
+		"revenue": 2876400000
+	},
+	{
+		"no": 330,
+		"symbol": "CPAY",
+		"name": "Corpay, Inc.",
+		"marketCap": 24093112246.2426,
+		"price": 345.6143,
+		"change": 1.1,
+		"revenue": 3877478000
+	},
+	{
+		"no": 331,
+		"symbol": "ADM",
+		"name": "Archer-Daniels-Midland Company",
+		"marketCap": 24036738709.6,
+		"price": 50.23,
+		"change": 0.36,
+		"revenue": 87010000000
+	},
+	{
+		"no": 332,
+		"symbol": "NTAP",
+		"name": "NetApp, Inc.",
+		"marketCap": 24016587867.12,
+		"price": 118.13,
+		"change": 1.02,
+		"revenue": 6473000000
+	},
+	{
+		"no": 333,
+		"symbol": "AWK",
+		"name": "American Water Works Company, Inc.",
+		"marketCap": 23948561080.32,
+		"price": 122.88,
+		"change": -0.72,
+		"revenue": 4515000000
+	},
+	{
+		"no": 334,
+		"symbol": "LYB",
+		"name": "LyondellBasell Industries N.V.",
+		"marketCap": 23916715935.254999,
+		"price": 73.645,
+		"change": 1.2,
+		"revenue": 40734000000
+	},
+	{
+		"no": 335,
+		"symbol": "CDW",
+		"name": "CDW Corporation",
+		"marketCap": 23894246316.600004,
+		"price": 179.3,
+		"change": 2.91,
+		"revenue": 20831200000
+	},
+	{
+		"no": 336,
+		"symbol": "EXPE",
+		"name": "Expedia Group, Inc.",
+		"marketCap": 23612541818.250005,
+		"price": 183.975,
+		"change": -1.14,
+		"revenue": 13394000000
+	},
+	{
+		"no": 337,
+		"symbol": "PPL",
+		"name": "PPL Corporation",
+		"marketCap": 23612088279.98,
+		"price": 31.996,
+		"change": -0.85,
+		"revenue": 8282000000
+	},
+	{
+		"no": 338,
+		"symbol": "HUBB",
+		"name": "Hubbell Incorporated",
+		"marketCap": 23554930545.12,
+		"price": 438.88,
+		"change": 1.84,
+		"revenue": 5640000000
+	},
+	{
+		"no": 339,
+		"symbol": "AEE",
+		"name": "Ameren Corporation",
+		"marketCap": 23440261859.105005,
+		"price": 87.815,
+		"change": -1.16,
+		"revenue": 7058000000
+	},
+	{
+		"no": 340,
+		"symbol": "FOXA",
+		"name": "Fox Corporation",
+		"marketCap": 22882482618,
+		"price": 50.1,
+		"change": 1.58,
+		"revenue": 14337000000
+	},
+	{
+		"no": 341,
+		"symbol": "WDC",
+		"name": "Western Digital Corporation",
+		"marketCap": 22844414574.239999,
+		"price": 66.08,
+		"change": 3.14,
+		"revenue": 14348000000
+	},
+	{
+		"no": 342,
+		"symbol": "TER",
+		"name": "Teradyne, Inc.",
+		"marketCap": 22800604680,
+		"price": 140,
+		"change": 7.2,
+		"revenue": 2737595000
+	},
+	{
+		"no": 343,
+		"symbol": "FE",
+		"name": "FirstEnergy Corp.",
+		"marketCap": 22752995317.92,
+		"price": 39.48,
+		"change": -1.1,
+		"revenue": 13257000000
+	},
+	{
+		"no": 344,
+		"symbol": "PHM",
+		"name": "PulteGroup, Inc.",
+		"marketCap": 22694394149.46,
+		"price": 110.66,
+		"change": 0.55,
+		"revenue": 17318808000
+	},
+	{
+		"no": 345,
+		"symbol": "DVN",
+		"name": "Devon Energy Corporation",
+		"marketCap": 22518532000,
+		"price": 34.28,
+		"change": 1.03,
+		"revenue": 14529000000
+	},
+	{
+		"no": 346,
+		"symbol": "WAT",
+		"name": "Waters Corporation",
+		"marketCap": 22501194899.039999,
+		"price": 378.96,
+		"change": 1.94,
+		"revenue": 2905147000
+	},
+	{
+		"no": 347,
+		"symbol": "CINF",
+		"name": "Cincinnati Financial Corporation",
+		"marketCap": 22485145847.19,
+		"price": 143.845,
+		"change": 1.23,
+		"revenue": 12155000000
+	},
+	{
+		"no": 348,
+		"symbol": "PTC",
+		"name": "PTC Inc.",
+		"marketCap": 22248950265.36,
+		"price": 184.86,
+		"change": 0.17,
+		"revenue": 2298472000
+	},
+	{
+		"no": 349,
+		"symbol": "BIIB",
+		"name": "Biogen Inc.",
+		"marketCap": 22222636508.019998,
+		"price": 152.503,
+		"change": 0.19,
+		"revenue": 9607500000
+	},
+	{
+		"no": 350,
+		"symbol": "ROL",
+		"name": "Rollins, Inc.",
+		"marketCap": 22156954482,
+		"price": 45.75,
+		"change": -0.91,
+		"revenue": 3310625000
+	},
+	{
+		"no": 351,
+		"symbol": "WRB",
+		"name": "W. R. Berkley Corporation",
+		"marketCap": 22046753937.6,
+		"price": 57.855,
+		"change": -0.13,
+		"revenue": 13192566000
+	},
+	{
+		"no": 352,
+		"symbol": "RF",
+		"name": "Regions Financial Corporation",
+		"marketCap": 21926338330.625,
+		"price": 24.125,
+		"change": 2.14,
+		"revenue": 6556000000
+	},
+	{
+		"no": 353,
+		"symbol": "FOX",
+		"name": "Fox Corporation",
+		"marketCap": 21913717733,
+		"price": 47.375,
+		"change": 1.4,
+		"revenue": 14337000000
+	},
+	{
+		"no": 354,
+		"symbol": "DRI",
+		"name": "Darden Restaurants, Inc.",
+		"marketCap": 21707299445.800004,
+		"price": 185.3,
+		"change": -1.29,
+		"revenue": 11579100000
+	},
+	{
+		"no": 355,
+		"symbol": "ERIE",
+		"name": "Erie Indemnity Company",
+		"marketCap": 21685654056.960004,
+		"price": 414.72,
+		"revenue": 3688692000
+	},
+	{
+		"no": 356,
+		"symbol": "LII",
+		"name": "Lennox International Inc.",
+		"marketCap": 21558496590.399999,
+		"price": 605.18,
+		"change": -1.23,
+		"revenue": 5151100000
+	},
+	{
+		"no": 357,
+		"symbol": "SBAC",
+		"name": "SBA Communications Corporation",
+		"marketCap": 21550757924.88,
+		"price": 200.43,
+		"change": -0.68,
+		"revenue": 2660958000
+	},
+	{
+		"no": 358,
+		"symbol": "ATO",
+		"name": "Atmos Energy Corporation",
+		"marketCap": 21448243544.66,
+		"price": 138.02,
+		"change": -0.55,
+		"revenue": 4165187000
+	},
+	{
+		"no": 359,
+		"symbol": "SMCI",
+		"name": "Super Micro Computer, Inc.",
+		"marketCap": 21390757869.627,
+		"price": 36.5301,
+		"change": 9.6,
+		"revenue": 14942854000
+	},
+	{
+		"no": 360,
+		"symbol": "TDY",
+		"name": "Teledyne Micropac, Inc",
+		"marketCap": 21329369696.169004,
+		"price": 457.689,
+		"change": -0.44,
+		"revenue": 5592700000
+	},
+	{
+		"no": 361,
+		"symbol": "IFF",
+		"name": "International Flavors & Fragrances Inc.",
+		"marketCap": 21028593148.605,
+		"price": 82.245,
+		"change": -0.33,
+		"revenue": 11416000000
+	},
+	{
+		"no": 362,
+		"symbol": "WY",
+		"name": "Weyerhaeuser Company",
+		"marketCap": 20940093240,
+		"price": 28.82,
+		"change": 1.62,
+		"revenue": 7190000000
+	},
+	{
+		"no": 363,
+		"symbol": "FSLR",
+		"name": "First Solar, Inc.",
+		"marketCap": 20848422729.68,
+		"price": 194.74,
+		"change": 4.46,
+		"revenue": 3850811000
+	},
+	{
+		"no": 364,
+		"symbol": "ZBH",
+		"name": "Zimmer Biomet Holdings, Inc.",
+		"marketCap": 20833713998.28,
+		"price": 104.67,
+		"change": 0.19,
+		"revenue": 7595500000
+	},
+	{
+		"no": 365,
+		"symbol": "ES",
+		"name": "Eversource Energy",
+		"marketCap": 20787822405.945,
+		"price": 56.735,
+		"change": -1,
+		"revenue": 11623559000
+	},
+	{
+		"no": 366,
+		"symbol": "NTRS",
+		"name": "Northern Trust Corporation",
+		"marketCap": 20610757862.34,
+		"price": 103.98,
+		"change": 0.68,
+		"revenue": 7857600000
+	},
+	{
+		"no": 367,
+		"symbol": "LUV",
+		"name": "Southwest Airlines Co.",
+		"marketCap": 20570986611.699998,
+		"price": 34.3,
+		"change": 2.05,
+		"revenue": 27376000000
+	},
+	{
+		"no": 368,
+		"symbol": "ZBRA",
+		"name": "Zebra Technologies Corporation",
+		"marketCap": 20477013215.86,
+		"price": 396.995,
+		"change": 1.31,
+		"revenue": 4656000000
+	},
+	{
+		"no": 369,
+		"symbol": "TSN",
+		"name": "Tyson Foods, Inc.",
+		"marketCap": 20415810795.28,
+		"price": 57.32,
+		"change": -1.48,
+		"revenue": 53309000000
+	},
+	{
+		"no": 370,
+		"symbol": "CNP",
+		"name": "CenterPoint Energy, Inc.",
+		"marketCap": 20408839647.940004,
+		"price": 31.315,
+		"change": -1.03,
+		"revenue": 8563000000
+	},
+	{
+		"no": 371,
+		"symbol": "STE",
+		"name": "STERIS plc",
+		"marketCap": 20283862161.865,
+		"price": 205.495,
+		"change": 0.67,
+		"revenue": 5325525000
+	},
+	{
+		"no": 372,
+		"symbol": "VRSN",
+		"name": "VeriSign, Inc.",
+		"marketCap": 20230972000,
+		"price": 210.52,
+		"change": 2.38,
+		"revenue": 1542400000
+	},
+	{
+		"no": 373,
+		"symbol": "NRG",
+		"name": "NRG Energy, Inc.",
+		"marketCap": 20192322476.572504,
+		"price": 99.6825,
+		"change": 1.2,
+		"revenue": 28118000000
+	},
+	{
+		"no": 374,
+		"symbol": "PKG",
+		"name": "Packaging Corporation of America",
+		"marketCap": 20173206857.395,
+		"price": 226.235,
+		"change": 0.16,
+		"revenue": 8175100000
+	},
+	{
+		"no": 375,
+		"symbol": "CBOE",
+		"name": "Cboe Global Markets, Inc.",
+		"marketCap": 20078215504.335,
+		"price": 191.795,
+		"change": -1.76,
+		"revenue": 3955600000
+	},
+	{
+		"no": 376,
+		"symbol": "ULTA",
+		"name": "Ulta Beauty, Inc.",
+		"marketCap": 20045688863.95,
+		"price": 432.275,
+		"change": 0.21,
+		"revenue": 11362333000
+	},
+	{
+		"no": 377,
+		"symbol": "MKC",
+		"name": "McCormick & Company, Incorporated",
+		"marketCap": 20036878839.590005,
+		"price": 74.665,
+		"change": -1.56,
+		"revenue": 6678500000
+	},
+	{
+		"no": 378,
+		"symbol": "LDOS",
+		"name": "Leidos Holdings, Inc.",
+		"marketCap": 19892207889.72,
+		"price": 149.08,
+		"change": 1.31,
+		"revenue": 16277000000
+	},
+	{
+		"no": 379,
+		"symbol": "CFG",
+		"name": "Citizens Financial Group, Inc.",
+		"marketCap": 19829320482.335,
+		"price": 44.995,
+		"change": 0.98,
+		"revenue": 7115000000
+	},
+	{
+		"no": 380,
+		"symbol": "CMS",
+		"name": "CMS Energy Corporation",
+		"marketCap": 19737728181.9,
+		"price": 66.06,
+		"change": -0.83,
+		"revenue": 7476000000
+	},
+	{
+		"no": 381,
+		"symbol": "CTRA",
+		"name": "Coterra Energy Inc.",
+		"marketCap": 19523928095.1,
+		"price": 26.505,
+		"change": 1.01,
+		"revenue": 5499000000
+	},
+	{
+		"no": 382,
+		"symbol": "CLX",
+		"name": "The Clorox Company",
+		"marketCap": 19444807244.62,
+		"price": 157.09,
+		"change": -3.56,
+		"revenue": 7469000000
+	},
+	{
+		"no": 383,
+		"symbol": "LH",
+		"name": "Labcorp Holdings Inc.",
+		"marketCap": 19416436244.845,
+		"price": 232.145,
+		"change": 1.31,
+		"revenue": 12712800000
+	},
+	{
+		"no": 384,
+		"symbol": "INVH",
+		"name": "Invitation Homes Inc.",
+		"marketCap": 19408578099.46,
+		"price": 31.58,
+		"change": -1.1,
+		"revenue": 2554563000
+	},
+	{
+		"no": 385,
+		"symbol": "STX",
+		"name": "Seagate Technology Holdings plc",
+		"marketCap": 19057751113.355,
+		"price": 90.095,
+		"change": 1.06,
+		"revenue": 7265000000
+	},
+	{
+		"no": 386,
+		"symbol": "PODD",
+		"name": "Insulet Corporation",
+		"marketCap": 18908576272.875,
+		"price": 269.565,
+		"change": 1.23,
+		"revenue": 1983900000
+	},
+	{
+		"no": 387,
+		"symbol": "IP",
+		"name": "International Paper Company",
+		"marketCap": 18551602472.399999,
+		"price": 53.4,
+		"change": 1.04,
+		"revenue": 18640000000
+	},
+	{
+		"no": 388,
+		"symbol": "COO",
+		"name": "The Cooper Companies, Inc.",
+		"marketCap": 18529250997.84,
+		"price": 92.84,
+		"change": 1.14,
+		"revenue": 3895400000
+	},
+	{
+		"no": 389,
+		"symbol": "ESS",
+		"name": "Essex Property Trust, Inc.",
+		"marketCap": 18521108645.730005,
+		"price": 278.095,
+		"change": -2.17,
+		"revenue": 1752440000
+	},
+	{
+		"no": 390,
+		"symbol": "L",
+		"name": "Loews Corporation",
+		"marketCap": 18222468552.149999,
+		"price": 83.675,
+		"change": -0.8,
+		"revenue": 17222000000
+	},
+	{
+		"no": 391,
+		"symbol": "MAA",
+		"name": "Mid-America Apartment Communities, Inc.",
+		"marketCap": 18220092993.269998,
+		"price": 151.89,
+		"change": -2.04,
+		"revenue": 2183430000
+	},
+	{
+		"no": 392,
+		"symbol": "BBY",
+		"name": "Best Buy Co., Inc.",
+		"marketCap": 18205764573.465,
+		"price": 85.155,
+		"change": 1.84,
+		"revenue": 42226000000
+	},
+	{
+		"no": 393,
+		"symbol": "STLD",
+		"name": "Steel Dynamics, Inc.",
+		"marketCap": 18138468704.3,
+		"price": 119.14,
+		"change": 5.29,
+		"revenue": 17901675000
+	},
+	{
+		"no": 394,
+		"symbol": "PFG",
+		"name": "Principal Financial Group, Inc.",
+		"marketCap": 18100221168.505,
+		"price": 79.135,
+		"change": 1.57,
+		"revenue": 14066500000
+	},
+	{
+		"no": 395,
+		"symbol": "JBHT",
+		"name": "J.B. Hunt Transport Services, Inc.",
+		"marketCap": 17984030595.440004,
+		"price": 178.36,
+		"change": 1.45,
+		"revenue": 12244556000
+	},
+	{
+		"no": 396,
+		"symbol": "BF.B",
+		"name": "Brown-Forman Corporation",
+		"marketCap": 17923316647.68,
+		"price": 37.92,
+		"change": 4.61,
+		"revenue": 4079000000
+	},
+	{
+		"no": 397,
+		"symbol": "FDS",
+		"name": "FactSet Research Systems Inc.",
+		"marketCap": 17888567222.05,
+		"price": 470.89,
+		"change": -0.88,
+		"revenue": 2229507000
+	},
+	{
+		"no": 398,
+		"symbol": "SNA",
+		"name": "Snap-on Incorporated",
+		"marketCap": 17544193425.920003,
+		"price": 334.24,
+		"change": -0.54,
+		"revenue": 5103000000
+	},
+	{
+		"no": 399,
+		"symbol": "TRMB",
+		"name": "Trimble Inc.",
+		"marketCap": 17392466055.42,
+		"price": 71.22,
+		"change": 0.92,
+		"revenue": 3632300000
+	},
+	{
+		"no": 400,
+		"symbol": "KEY",
+		"name": "KeyCorp",
+		"marketCap": 17382147159.51,
+		"price": 17.535,
+		"change": 1.42,
+		"revenue": 4852000000
+	},
+	{
+		"no": 401,
+		"symbol": "ARE",
+		"name": "Alexandria Real Estate Equities, Inc.",
+		"marketCap": 17254277831.07,
+		"price": 98.73,
+		"change": -0.43,
+		"revenue": 3085452000
+	},
+	{
+		"no": 402,
+		"symbol": "MOH",
+		"name": "Molina Healthcare, Inc.",
+		"marketCap": 17205188000,
+		"price": 300.79,
+		"change": 2.14,
+		"revenue": 37544000000
+	},
+	{
+		"no": 403,
+		"symbol": "DGX",
+		"name": "Quest Diagnostics Incorporated",
+		"marketCap": 17124001069.019999,
+		"price": 153.42,
+		"change": 0.99,
+		"revenue": 9539000000
+	},
+	{
+		"no": 404,
+		"symbol": "JBL",
+		"name": "Jabil Inc.",
+		"marketCap": 17120569393.68,
+		"price": 151.72,
+		"change": 1.38,
+		"revenue": 27490000000
+	},
+	{
+		"no": 405,
+		"symbol": "GEN",
+		"name": "Gen Digital Inc.",
+		"marketCap": 17016500246.55,
+		"price": 27.615,
+		"change": 0.42,
+		"revenue": 3863000000
+	},
+	{
+		"no": 406,
+		"symbol": "BLDR",
+		"name": "Builders FirstSource, Inc.",
+		"marketCap": 16997476121.099999,
+		"price": 147.695,
+		"change": 2.54,
+		"revenue": 16731047999.999999
+	},
+	{
+		"no": 407,
+		"symbol": "HRL",
+		"name": "Hormel Foods Corporation",
+		"marketCap": 16967244354.41,
+		"price": 30.905,
+		"change": -1.45,
+		"revenue": 11920797000
+	},
+	{
+		"no": 408,
+		"symbol": "MRNA",
+		"name": "Moderna, Inc.",
+		"marketCap": 16874261012.35,
+		"price": 43.85,
+		"change": 3.96,
+		"revenue": 5081000000
+	},
+	{
+		"no": 409,
+		"symbol": "DG",
+		"name": "Dollar General Corporation",
+		"marketCap": 16859501862.199999,
+		"price": 76.66,
+		"change": 2.67,
+		"revenue": 40166324000
+	},
+	{
+		"no": 410,
+		"symbol": "OMC",
+		"name": "Omnicom Group Inc.",
+		"marketCap": 16830466730.55,
+		"price": 85.69,
+		"change": -0.23,
+		"revenue": 15427800000
+	},
+	{
+		"no": 411,
+		"symbol": "HOLX",
+		"name": "Hologic, Inc.",
+		"marketCap": 16823152416.21,
+		"price": 74.13,
+		"change": 1.28,
+		"revenue": 4030300000
+	},
+	{
+		"no": 412,
+		"symbol": "NI",
+		"name": "NiSource Inc.",
+		"marketCap": 16715353948.830002,
+		"price": 35.81,
+		"change": -1.59,
+		"revenue": 5289300000
+	},
+	{
+		"no": 413,
+		"symbol": "J",
+		"name": "Jacobs Solutions Inc.",
+		"marketCap": 16545234033.67,
+		"price": 133.465,
+		"change": -0.25,
+		"revenue": 11500941000
+	},
+	{
+		"no": 414,
+		"symbol": "GPC",
+		"name": "Genuine Parts Company",
+		"marketCap": 16533176260.387499,
+		"price": 118.9125,
+		"change": 1.76,
+		"revenue": 23302280000
+	},
+	{
+		"no": 415,
+		"symbol": "ALGN",
+		"name": "Align Technology, Inc.",
+		"marketCap": 16530427075.800002,
+		"price": 221.43,
+		"change": 6.32,
+		"revenue": 3960519000
+	},
+	{
+		"no": 416,
+		"symbol": "DLTR",
+		"name": "Dollar Tree, Inc.",
+		"marketCap": 16523568943.92,
+		"price": 76.84,
+		"change": 4.74,
+		"revenue": 31219700000
+	},
+	{
+		"no": 417,
+		"symbol": "PNR",
+		"name": "Pentair plc",
+		"marketCap": 16486434482.924002,
+		"price": 99.778,
+		"change": -1.27,
+		"revenue": 4094500000
+	},
+	{
+		"no": 418,
+		"symbol": "BALL",
+		"name": "Ball Corporation",
+		"marketCap": 16416412169.619999,
+		"price": 55.01,
+		"change": 1.81,
+		"revenue": 13785000000
+	},
+	{
+		"no": 419,
+		"symbol": "NWS",
+		"name": "News Corporation",
+		"marketCap": 16213467308,
+		"price": 30.56,
+		"change": 0.2,
+		"revenue": 10163000000
+	},
+	{
+		"no": 420,
+		"symbol": "MAS",
+		"name": "Masco Corporation",
+		"marketCap": 15867252335.685,
+		"price": 73.545,
+		"change": 1.86,
+		"revenue": 7882000000
+	},
+	{
+		"no": 421,
+		"symbol": "EG",
+		"name": "Everest Group, Ltd.",
+		"marketCap": 15771851337.45,
+		"price": 366.97,
+		"change": 0.5,
+		"revenue": 16436500000
+	},
+	{
+		"no": 422,
+		"symbol": "IEX",
+		"name": "IDEX Corporation",
+		"marketCap": 15753855612.859999,
+		"price": 208.045,
+		"change": 0.5,
+		"revenue": 3194800000
+	},
+	{
+		"no": 423,
+		"symbol": "NWSA",
+		"name": "News Corporation",
+		"marketCap": 15710935245.949999,
+		"price": 27.65,
+		"change": 0.36,
+		"revenue": 10163000000
+	},
+	{
+		"no": 424,
+		"symbol": "UDR",
+		"name": "UDR, Inc.",
+		"marketCap": 15700659413.4,
+		"price": 42.12,
+		"change": -2.23,
+		"revenue": 1677719000
+	},
+	{
+		"no": 425,
+		"symbol": "EXPD",
+		"name": "Expeditors International of Washington, Inc.",
+		"marketCap": 15657001050.705,
+		"price": 111.855,
+		"change": 0.52,
+		"revenue": 9923578000
+	},
+	{
+		"no": 426,
+		"symbol": "CF",
+		"name": "CF Industries Holdings, Inc.",
+		"marketCap": 15580874343.015,
+		"price": 89.535,
+		"change": 1.16,
+		"revenue": 5983000000
+	},
+	{
+		"no": 427,
+		"symbol": "TPR",
+		"name": "Tapestry, Inc.",
+		"marketCap": 15511153759.501599,
+		"price": 67.6792,
+		"change": 1.36,
+		"revenue": 6665500000
+	},
+	{
+		"no": 428,
+		"symbol": "BAX",
+		"name": "Baxter International Inc.",
+		"marketCap": 15364193017.3872,
+		"price": 30.0912,
+		"change": 2,
+		"revenue": 15062000000
+	},
+	{
+		"no": 429,
+		"symbol": "KIM",
+		"name": "Kimco Realty Corporation",
+		"marketCap": 15288892878.105,
+		"price": 22.645,
+		"change": -2.27,
+		"revenue": 1963220000
+	},
+	{
+		"no": 430,
+		"symbol": "FFIV",
+		"name": "F5, Inc.",
+		"marketCap": 15233270727.6875,
+		"price": 259.8875,
+		"change": 2.17,
+		"revenue": 2816120000
+	},
+	{
+		"no": 431,
+		"symbol": "AVY",
+		"name": "Avery Dennison Corporation",
+		"marketCap": 15179446076.025002,
+		"price": 188.925,
+		"change": 2.07,
+		"revenue": 8680500000
+	},
+	{
+		"no": 432,
+		"symbol": "RL",
+		"name": "Ralph Lauren Corporation",
+		"marketCap": 15029854703.1864,
+		"price": 242.0331,
+		"change": 3.22,
+		"revenue": 6740100000
+	},
+	{
+		"no": 433,
+		"symbol": "LNT",
+		"name": "Alliant Energy Corporation",
+		"marketCap": 14830150879.59,
+		"price": 57.795,
+		"change": -0.93,
+		"revenue": 3966000000
+	},
+	{
+		"no": 434,
+		"symbol": "DPZ",
+		"name": "Domino's Pizza, Inc.",
+		"marketCap": 14746017905.449999,
+		"price": 427.025,
+		"change": -2.46,
+		"revenue": 4665474000
+	},
+	{
+		"no": 435,
+		"symbol": "SWKS",
+		"name": "Skyworks Solutions, Inc.",
+		"marketCap": 14663124306.81,
+		"price": 91.69,
+		"change": 3.2,
+		"revenue": 4178000000
+	},
+	{
+		"no": 436,
+		"symbol": "APTV",
+		"name": "Aptiv PLC",
+		"marketCap": 14532259742.369999,
+		"price": 61.83,
+		"change": 2.15,
+		"revenue": 19725000000
+	},
+	{
+		"no": 437,
+		"symbol": "VTRS",
+		"name": "Viatris Inc.",
+		"marketCap": 14472313936.75,
+		"price": 12.125,
+		"change": -1.26,
+		"revenue": 15048500000
+	},
+	{
+		"no": 438,
+		"symbol": "DOC",
+		"name": "Healthpeak Properties, Inc.",
+		"marketCap": 14352475097.1388,
+		"price": 20.1172,
+		"change": -1.48,
+		"revenue": 2556113000
+	},
+	{
+		"no": 439,
+		"symbol": "RVTY",
+		"name": "Revvity, Inc.",
+		"marketCap": 14220895643.25,
+		"price": 116.85,
+		"change": 2.86,
+		"revenue": 2721555000
+	},
+	{
+		"no": 440,
+		"symbol": "AKAM",
+		"name": "Akamai Technologies, Inc.",
+		"marketCap": 14154386620.92,
+		"price": 94.22,
+		"change": 0.71,
+		"revenue": 3966246000
+	},
+	{
+		"no": 441,
+		"symbol": "TXT",
+		"name": "Textron Inc.",
+		"marketCap": 14098880460,
+		"price": 76,
+		"change": 0.36,
+		"revenue": 13981000000
+	},
+	{
+		"no": 442,
+		"symbol": "EVRG",
+		"name": "Evergy, Inc.",
+		"marketCap": 13973352149.96,
+		"price": 60.76,
+		"change": -1.28,
+		"revenue": 5777800000
+	},
+	{
+		"no": 443,
+		"symbol": "INCY",
+		"name": "Incyte Corporation",
+		"marketCap": 13890082952.9,
+		"price": 72.1,
+		"change": 3.55,
+		"revenue": 4075860000
+	},
+	{
+		"no": 444,
+		"symbol": "AMCR",
+		"name": "Amcor plc",
+		"marketCap": 13697663946.119999,
+		"price": 9.51,
+		"change": 1.93,
+		"revenue": 13550000000
+	},
+	{
+		"no": 445,
+		"symbol": "EPAM",
+		"name": "EPAM Systems, Inc.",
+		"marketCap": 13159938278.269999,
+		"price": 232.01,
+		"change": 0.56,
+		"revenue": 4636846000
+	},
+	{
+		"no": 446,
+		"symbol": "REG",
+		"name": "Regency Centers Corporation",
+		"marketCap": 13137845406.84,
+		"price": 72.135,
+		"change": -1.23,
+		"revenue": 1489813000
+	},
+	{
+		"no": 447,
+		"symbol": "CAG",
+		"name": "Conagra Brands, Inc.",
+		"marketCap": 12940300920.9586,
+		"price": 27.1103,
+		"change": -1.95,
+		"revenue": 11928800000
+	},
+	{
+		"no": 448,
+		"symbol": "POOL",
+		"name": "Pool Corporation",
+		"marketCap": 12897398655.570002,
+		"price": 338.91,
+		"change": 0.49,
+		"revenue": 5326524000
+	},
+	{
+		"no": 449,
+		"symbol": "BXP",
+		"name": "BXP, Inc.",
+		"marketCap": 12875279881,
+		"price": 73,
+		"change": -2.55,
+		"revenue": 3344005000
+	},
+	{
+		"no": 450,
+		"symbol": "SWK",
+		"name": "Stanley Black & Decker, Inc.",
+		"marketCap": 12740102547.36,
+		"price": 82.64,
+		"change": 2.33,
+		"revenue": 15381700000
+	},
+	{
+		"no": 451,
+		"symbol": "ROK",
+		"name": "Rockwell Automation, Inc.",
+		"marketCap": 12694008037.525,
+		"price": 283.775,
+		"change": 0.35,
+		"revenue": 8264200000.000001
+	},
+	{
+		"no": 452,
+		"symbol": "JNPR",
+		"name": "Juniper Networks, Inc.",
+		"marketCap": 12568140603.720002,
+		"price": 37.96,
+		"change": 0.03,
+		"revenue": 5034300000
+	},
+	{
+		"no": 453,
+		"symbol": "JKHY",
+		"name": "Jack Henry & Associates, Inc.",
+		"marketCap": 12519820170,
+		"price": 171.6,
+		"change": -1.21,
+		"revenue": 2245157000
+	},
+	{
+		"no": 454,
+		"symbol": "DVA",
+		"name": "DaVita Inc.",
+		"marketCap": 12466460000,
+		"price": 152.03,
+		"change": -0.52,
+		"revenue": 12666614000
+	},
+	{
+		"no": 455,
+		"symbol": "CPT",
+		"name": "Camden Property Trust",
+		"marketCap": 12392797188.45,
+		"price": 114.45,
+		"change": -2.24,
+		"revenue": 1556549000
+	},
+	{
+		"no": 456,
+		"symbol": "KMX",
+		"name": "CarMax, Inc.",
+		"marketCap": 12328033203,
+		"price": 80.1,
+		"change": 0.04,
+		"revenue": 27796200000
+	},
+	{
+		"no": 457,
+		"symbol": "CHRW",
+		"name": "C.H. Robinson Worldwide, Inc.",
+		"marketCap": 12325256099.73,
+		"price": 104.27,
+		"change": -0.16,
+		"revenue": 17762187000
+	},
+	{
+		"no": 458,
+		"symbol": "HST",
+		"name": "Host Hotels & Resorts, Inc.",
+		"marketCap": 12295924929.66,
+		"price": 17.59,
+		"change": 0.8,
+		"revenue": 5590000000
+	},
+	{
+		"no": 459,
+		"symbol": "CPB",
+		"name": "The Campbell's Company",
+		"marketCap": 12288063037.68,
+		"price": 41.22,
+		"change": -1.25,
+		"revenue": 9890000000
+	},
+	{
+		"no": 460,
+		"symbol": "UHS",
+		"name": "Universal Health Services, Inc.",
+		"marketCap": 12016302439.68,
+		"price": 182.16,
+		"change": 1.83,
+		"revenue": 15417759000
+	},
+	{
+		"no": 461,
+		"symbol": "TECH",
+		"name": "Bio-Techne Corporation",
+		"marketCap": 11909734869,
+		"price": 74.955,
+		"change": 1.58,
+		"revenue": 1171583000
+	},
+	{
+		"no": 462,
+		"symbol": "NDSN",
+		"name": "Nordson Corporation",
+		"marketCap": 11906656709.58,
+		"price": 208.83,
+		"change": 0.61,
+		"revenue": 2689921000
+	},
+	{
+		"no": 463,
+		"symbol": "SJM",
+		"name": "The J. M. Smucker Company",
+		"marketCap": 11798870452,
+		"price": 110.875,
+		"change": -0.59,
+		"revenue": 8831200000
+	},
+	{
+		"no": 464,
+		"symbol": "SOLV",
+		"name": "Solventum Corporation",
+		"marketCap": 11750248130.004,
+		"price": 68.0172,
+		"change": 1.34,
+		"revenue": 8215000000
+	},
+	{
+		"no": 465,
+		"symbol": "DAY",
+		"name": "Dayforce Inc.",
+		"marketCap": 11622490000,
+		"price": 73.7,
+		"change": 1.63,
+		"revenue": 1694500000
+	},
+	{
+		"no": 466,
+		"symbol": "PAYC",
+		"name": "Paycom Software, Inc.",
+		"marketCap": 11620987864.7,
+		"price": 207.94,
+		"change": 2,
+		"revenue": 1823922000
+	},
+	{
+		"no": 467,
+		"symbol": "TAP",
+		"name": "Molson Coors Beverage Company",
+		"marketCap": 11547036609.099999,
+		"price": 56.05,
+		"change": 1.41,
+		"revenue": 11682200000
+	},
+	{
+		"no": 468,
+		"symbol": "NCLH",
+		"name": "Norwegian Cruise Line Holdings Ltd.",
+		"marketCap": 11375253151.86,
+		"price": 25.87,
+		"change": 1.77,
+		"revenue": 9356741000
+	},
+	{
+		"no": 469,
+		"symbol": "ALLE",
+		"name": "Allegion plc",
+		"marketCap": 11338186120.83,
+		"price": 130.43,
+		"change": 0.19,
+		"revenue": 3724000000
+	},
+	{
+		"no": 470,
+		"symbol": "BG",
+		"name": "Bunge Global SA",
+		"marketCap": 10991445626.88,
+		"price": 78.72,
+		"change": 1.86,
+		"revenue": 54502000000
+	},
+	{
+		"no": 471,
+		"symbol": "AIZ",
+		"name": "Assurant, Inc.",
+		"marketCap": 10806250123.199999,
+		"price": 210.7,
+		"change": -0.54,
+		"revenue": 11755800000
+	},
+	{
+		"no": 472,
+		"symbol": "ALB",
+		"name": "Albemarle Corporation",
+		"marketCap": 10718503513.41,
+		"price": 91.19,
+		"change": 3.87,
+		"revenue": 6501978000
+	},
+	{
+		"no": 473,
+		"symbol": "BEN",
+		"name": "Franklin Resources, Inc.",
+		"marketCap": 10572798031.8623,
+		"price": 20.1899,
+		"change": -1.08,
+		"revenue": 8478000000
+	},
+	{
+		"no": 474,
+		"symbol": "IPG",
+		"name": "The Interpublic Group of Companies, Inc.",
+		"marketCap": 10493567769.060002,
+		"price": 28.17,
+		"change": 0.14,
+		"revenue": 9338900000
+	},
+	{
+		"no": 475,
+		"symbol": "EMN",
+		"name": "Eastman Chemical Company",
+		"marketCap": 10272307010.68,
+		"price": 88.66,
+		"change": -0.01,
+		"revenue": 9344000000
+	},
+	{
+		"no": 476,
+		"symbol": "MGM",
+		"name": "MGM Resorts International",
+		"marketCap": 10211009795.895,
+		"price": 34.295,
+		"change": 0.6,
+		"revenue": 17221656000
+	},
+	{
+		"no": 477,
+		"symbol": "AOS",
+		"name": "A. O. Smith Corporation",
+		"marketCap": 10026436266.45,
+		"price": 69.15,
+		"change": 0.8,
+		"revenue": 3893800000
+	},
+	{
+		"no": 478,
+		"symbol": "ENPH",
+		"name": "Enphase Energy, Inc.",
+		"marketCap": 10015453962.99,
+		"price": 74.13,
+		"change": 2.75,
+		"revenue": 1250240000
+	},
+	{
+		"no": 479,
+		"symbol": "CRL",
+		"name": "Charles River Laboratories International, Inc.",
+		"marketCap": 9763430465.54,
+		"price": 190.93,
+		"change": 2.76,
+		"revenue": 4060916000
+	},
+	{
+		"no": 480,
+		"symbol": "LKQ",
+		"name": "LKQ Corporation",
+		"marketCap": 9683506871.000002,
+		"price": 37.25,
+		"change": 1.8,
+		"revenue": 14499000000
+	},
+	{
+		"no": 481,
+		"symbol": "GNRC",
+		"name": "Generac Holdings Inc.",
+		"marketCap": 9534435754.75,
+		"price": 160.25,
+		"change": 0.86,
+		"revenue": 4124703000.0000007
+	},
+	{
+		"no": 482,
+		"symbol": "PNW",
+		"name": "Pinnacle West Capital Corporation",
+		"marketCap": 9492797971.8,
+		"price": 83.49,
+		"change": -0.9,
+		"revenue": 5021081000
+	},
+	{
+		"no": 483,
+		"symbol": "GL",
+		"name": "Globe Life Inc.",
+		"marketCap": 9483693605.4,
+		"price": 112.975,
+		"change": 1.53,
+		"revenue": 5727483000
+	},
+	{
+		"no": 484,
+		"symbol": "AES",
+		"name": "The AES Corporation",
+		"marketCap": 9392311724.508502,
+		"price": 13.2095,
+		"change": -0.15,
+		"revenue": 12284000000
+	},
+	{
+		"no": 485,
+		"symbol": "WYNN",
+		"name": "Wynn Resorts, Limited",
+		"marketCap": 9266408913.960001,
+		"price": 85.14,
+		"change": 2.18,
+		"revenue": 7129624000
+	},
+	{
+		"no": 486,
+		"symbol": "FRT",
+		"name": "Federal Realty Investment Trust",
+		"marketCap": 9264741764.25,
+		"price": 108.25,
+		"change": -1.26,
+		"revenue": 1185020000
+	},
+	{
+		"no": 487,
+		"symbol": "LW",
+		"name": "Lamb Weston Holdings, Inc.",
+		"marketCap": 9132570625.425002,
+		"price": 64.025,
+		"change": -2.3,
+		"revenue": 6325200000
+	},
+	{
+		"no": 488,
+		"symbol": "HSIC",
+		"name": "Henry Schein, Inc.",
+		"marketCap": 8972689322.710001,
+		"price": 71.965,
+		"change": 4.16,
+		"revenue": 12499000000
+	},
+	{
+		"no": 489,
+		"symbol": "APA",
+		"name": "APA Corporation",
+		"marketCap": 8845036659.0317,
+		"price": 23.9089,
+		"change": 2.09,
+		"revenue": 8955000000
+	},
+	{
+		"no": 490,
+		"symbol": "TFX",
+		"name": "Teleflex Incorporated",
+		"marketCap": 8565617861.62,
+		"price": 184.43,
+		"change": 1.47,
+		"revenue": 3025824000
+	},
+	{
+		"no": 491,
+		"symbol": "MKTX",
+		"name": "MarketAxess Holdings Inc.",
+		"marketCap": 8412974739.32,
+		"price": 223.13,
+		"change": -1.47,
+		"revenue": 811941000
+	},
+	{
+		"no": 492,
+		"symbol": "WBA",
+		"name": "Walgreens Boots Alliance, Inc.",
+		"marketCap": 8380147905.285,
+		"price": 9.705,
+		"change": 2.16,
+		"revenue": 147658000000
+	},
+	{
+		"no": 493,
+		"symbol": "MTCH",
+		"name": "Match Group, Inc.",
+		"marketCap": 8361330200.099999,
+		"price": 33.3,
+		"change": 2.49,
+		"revenue": 3485425000
+	},
+	{
+		"no": 494,
+		"symbol": "MOS",
+		"name": "The Mosaic Company",
+		"marketCap": 8161895469.6,
+		"price": 25.695,
+		"change": 2.17,
+		"revenue": 11456400000
+	},
+	{
+		"no": 495,
+		"symbol": "HAS",
+		"name": "Hasbro, Inc.",
+		"marketCap": 7995523772.67,
+		"price": 57.315,
+		"change": 0.91,
+		"revenue": 4322800000
+	},
+	{
+		"no": 496,
+		"symbol": "IVZ",
+		"name": "Invesco Ltd.",
+		"marketCap": 7905648755.68,
+		"price": 17.59,
+		"change": -0.9,
+		"revenue": 5887400000
+	},
+	{
+		"no": 497,
+		"symbol": "MHK",
+		"name": "Mohawk Industries, Inc.",
+		"marketCap": 7503350894.208,
+		"price": 118.872,
+		"change": 1.33,
+		"revenue": 10812015000
+	},
+	{
+		"no": 498,
+		"symbol": "HII",
+		"name": "Huntington Ingalls Industries, Inc.",
+		"marketCap": 7407576680.57,
+		"price": 189.31,
+		"change": 0.65,
+		"revenue": 11708000000
+	},
+	{
+		"no": 499,
+		"symbol": "PARA",
+		"name": "Paramount Global",
+		"marketCap": 7310047928.960001,
+		"price": 10.96,
+		"change": 2.72,
+		"revenue": 28867000000
+	},
+	{
+		"no": 500,
+		"symbol": "CE",
+		"name": "Celanese Corporation",
+		"marketCap": 7177713711.412499,
+		"price": 65.6625,
+		"change": -0.71,
+		"revenue": 10479000000
+	},
+	{
+		"no": 501,
+		"symbol": "CZR",
+		"name": "Caesars Entertainment, Inc.",
+		"marketCap": 7171212487.5,
+		"price": 33.75,
+		"change": 3.82,
+		"revenue": 11271000000
+	},
+	{
+		"no": 502,
+		"symbol": "BWA",
+		"name": "BorgWarner Inc.",
+		"marketCap": 7058538562.45,
+		"price": 32.275,
+		"change": 2.4,
+		"revenue": 14169000000
+	},
+	{
+		"no": 503,
+		"symbol": "FMC",
+		"name": "FMC Corporation",
+		"marketCap": 6237409854.63,
+		"price": 49.965,
+		"change": 2.96,
+		"revenue": 4167899999.9999997
+	}
+]

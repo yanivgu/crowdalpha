@@ -1,0 +1,34 @@
+Loaded 11923807 rows after merging.
+agg_df rows after date filter: 175861
+agg_df date range: 2024-06-01 00:00:00 to 2025-05-31 00:00:00
+agg_df sample after filter:
+            date Symbol     score  daily_gain
+62243 2024-06-01   AAPL  56811.45         NaN
+62561 2024-06-01   NTRS    102.41         NaN
+62560 2024-06-01   NTAP    342.08         NaN
+62559 2024-06-01    NSC   1055.68         NaN
+62558 2024-06-01    NRG    559.99         NaN
+62557 2024-06-01    NOW   3089.89         NaN
+62556 2024-06-01    NOC   3069.07         NaN
+62555 2024-06-01    NKE   4032.62         NaN
+62554 2024-06-01     NI    327.04         NaN
+62553 2024-06-01   NFLX  21406.80         NaN
+daily_gain NaN count: 56691
+Calculating and plotting for top 10 symbols...
+Number of unique symbols in top 10 across all days: 11
+Max drawdown for Equal - Top 10: 16.10%
+Max drawdown for Proportional - Top 10: 20.11%
+Total gain for Equal - Top 10: 26.70%
+Total gain for Proportional - Top 10: 16.62%
+Calculating and plotting for top 15 symbols...
+Number of unique symbols in top 15 across all days: 20
+Max drawdown for Equal - Top 15: 13.52%
+Max drawdown for Proportional - Top 15: 18.70%
+Total gain for Equal - Top 15: 16.86%
+Total gain for Proportional - Top 15: 13.62%
+Calculating and plotting for top 20 symbols...
+Number of unique symbols in top 20 across all days: 28
+Max drawdown for Equal - Top 20: 14.59%
+Max drawdown for Proportional - Top 20: 18.46%
+Total gain for Equal - Top 20: 14.75%
+Total gain for Proportional - Top 20: 13.28%

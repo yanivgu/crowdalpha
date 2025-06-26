@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Run SentimentAnalyzer",
+			"command": "dotnet run --project SentimentAnalyzer/SentimentAnalyzer.csproj",
+			"group": "build",
+			"problemMatcher": [
+				"$msCompile"
+			]
+		}
+	]
+}

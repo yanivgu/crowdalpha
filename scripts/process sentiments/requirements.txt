@@ -1,0 +1,3 @@
+pandas
+numpy
+# No new requirements for sample script

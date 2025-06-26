@@ -1,0 +1,23 @@
+participant "SentimentsFunc" as sf
+participant "Social API" as sapi
+participant "Azure Cognitive Services" as acs
+participant "RanksFunc" as rf
+database "ScoresDB" as sdb
+participant "Rankings API" as rapi
+activate sf
+sf->sapi:GetPosts
+sapi-->sf:Posts
+sf->acs:GetSentiments
+acs-->sf:Sentiments
+sf->sdb:StoreSentiments
+sf-->rf:Trigger
+deactivate sf
+
+activate rf
+rf->sdb:GetUsers
+sdb-->rf:Users
+rf->rapi:GetUserRanks
+rapi-->rf:UserRanks
+rf->sdb:StoreRanks
+deactivate rf
+

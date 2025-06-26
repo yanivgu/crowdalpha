@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalyzer", "SentimentAnalyzer\SentimentAnalyzer.csproj", "{2A4FD204-F9C6-4057-BFC7-FEF48B498640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalyzer.Application", "SentimentAnalyzer.Application\SentimentAnalyzer.Application.csproj", "{9F9753EF-C052-476A-840A-E2C64F31452B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalyzer.Domain", "SentimentAnalyzer.Domain\SentimentAnalyzer.Domain.csproj", "{1692F599-12E7-4D2E-BB16-92329385E723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalyzer.Infrastructure", "SentimentAnalyzer.Infrastructure\SentimentAnalyzer.Infrastructure.csproj", "{7C1F1382-3EE6-49A8-BC6E-E0322A32BBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4FD204-F9C6-4057-BFC7-FEF48B498640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4FD204-F9C6-4057-BFC7-FEF48B498640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4FD204-F9C6-4057-BFC7-FEF48B498640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4FD204-F9C6-4057-BFC7-FEF48B498640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9753EF-C052-476A-840A-E2C64F31452B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9753EF-C052-476A-840A-E2C64F31452B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9753EF-C052-476A-840A-E2C64F31452B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9753EF-C052-476A-840A-E2C64F31452B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1692F599-12E7-4D2E-BB16-92329385E723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1692F599-12E7-4D2E-BB16-92329385E723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1692F599-12E7-4D2E-BB16-92329385E723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1692F599-12E7-4D2E-BB16-92329385E723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1F1382-3EE6-49A8-BC6E-E0322A32BBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1F1382-3EE6-49A8-BC6E-E0322A32BBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1F1382-3EE6-49A8-BC6E-E0322A32BBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1F1382-3EE6-49A8-BC6E-E0322A32BBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
